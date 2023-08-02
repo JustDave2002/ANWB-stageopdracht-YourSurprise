@@ -1,0 +1,27 @@
+#map { height: 750px; }
+
+body {
+    background: rgb(0,0,115);
+    background: linear-gradient(265deg, rgba(0,0,115,1) 0%, rgba(13,13,162,1) 24%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .text {
+    color: rgb(255, 255, 255);
+   }
+
+   .container-fluid {
+    width: 95% !important;
+    float: left !important;
+  }
+  
+  .stackem div {
+    width: 100%;
+  }
+
+  .test {
+    position : absolute;
+    bottom : 0;
+  }

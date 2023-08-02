@@ -1,0 +1,2809 @@
+{
+    "_uploaded_at": "2023-07-30T14:48:58.716Z",
+    "success": true,
+    "copyright": "This website is owned by ANWB. The intellectual property rights, including the copyrights, in the material contained in this website and any ANWB trademarks and brands included in that material belong to ANWB and/or its licensors and/or its suppliers. No material, information, software, products or services obtained from this website may be modified, copied, licensed, reproduced, republished, sold, distributed, researched, recovered or otherwise disposed in any form, without the prior written approval of ANWB.",
+    "dateTime": "2023-07-30T14:48:00Z",
+    "roads": [
+        {
+            "road": "A7",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Heerenveen",
+                    "end": "de Duitse grens",
+                    "jams": [
+                        {
+                            "id": 20447521,
+                            "road": "A7",
+                            "segmentId": 3412,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Hoogkerk",
+                            "fromLoc": {
+                                "lat": 53.20025,
+                                "lon": 6.51001
+                            },
+                            "to": "Groningen-Zuidoost",
+                            "toLoc": {
+                                "lat": 53.21617,
+                                "lon": 6.60687
+                            },
+                            "polyline": "}avcI_`uf@ZwALq@ZwA~@cEFWl@yCv@{DF]v@yDv@{DJg@dAkFZ{ABQBMJe@Jk@R_Ab@wBNy@ReAXyAX}AP}@BORgALu@P}@Hg@He@F]DWHg@BQDSN}@ReAL}@Hc@He@Jo@XoBBSD_@T{AFa@DYJs@LaANkAb@eDBKJ{@DWBSP{AjB}PJgANqANgBRaCl@cHJmAHeADs@HoABe@Dw@Bg@?CBc@FyABu@DoABoA@c@ByA@}@?_A?kB?Y?m@AgACyACk@EoAC}@Cc@E}@Cc@ASC]CWCa@AMC]C[Em@Ea@Gq@EUEi@Eg@Ee@Iq@Ik@QkAMu@E[Ko@Kk@_@uBe@}BWgAOo@YqAWeAYmAe@yBmAqFo@sC]}AAEI[CMOo@c@qBu@aDu@cDg@{BS_AcAwEg@_CaAgEEQOk@UkAQ{@]cBEWUkAKk@Mu@O_AGe@OmAOiAQeAIm@[wB_@wBYkBOcAGe@CUGk@OuAOyAKmAEy@GcBAcB@kCBoABgA?O?K@QBe@B[BSBQD]Nu@Ry@BGj@uBZ{@Rc@H[g@a@s@c@KGaAe@}@_@UKi@_@[W_@a@e@q@[m@Uo@Qk@CGACEKO_@Mc@Og@Sk@K[K]Ka@I]Ou@My@Iw@Iu@K_AYeCa@sD]gDCQE]MeASoASoASeA[wA]yAMk@Mi@GYK[W}@Us@Uq@Si@c@aAMWKQUa@We@OYKQOYKQMUGKMSOWQY[k@KSIQg@cAQ]k@gAYk@Ue@O]KSEMGOIWEOESGYEQKa@Mi@Mk@EMCKCKCII[GUIY[aASq@Ma@Ma@Ia@K]Og@I[IWOg@Kc@CMKc@I]Mk@Kq@Ki@EWKq@Ga@Ia@Kg@GWCIQo@IYIUGSSm@c@wAWaA}@uCm@kBEMSo@Oe@Qm@GWEMEU[_BESAICMCSIq@Gs@Ec@Ce@Cc@Cg@AWAYAs@?W?SAW?YCg@Cw@C_@CUASAUCOEm@Ee@UsBIw@Im@COGi@Ea@CQOuACQE_@E[COKw@UuBQ{AUsBWwBKaAEc@EUAGE[E_@COIi@Ko@I_@EWI_@S_AQs@Qq@EMSm@CMUs@Qi@[cAMc@a@mAYaAq@aCMc@Kc@Kc@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.1956,
+                                    "lon": 6.50256
+                                },
+                                "northEast": {
+                                    "lat": 53.21636,
+                                    "lon": 6.60767
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                },
+                                {
+                                    "alertC": 108,
+                                    "text": "Langzaam rijdend tot stilstaand verkeer"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ]
+                },
+                {
+                    "start": "Heerenveen",
+                    "end": "Groningen",
+                    "roadworks": [
+                        {
+                            "id": 395368439,
+                            "road": "A7",
+                            "segmentId": 3403,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Groningen-West",
+                            "fromLoc": {
+                                "lat": 53.19666,
+                                "lon": 6.54032
+                            },
+                            "to": "Groningen-West",
+                            "toLoc": {
+                                "lat": 53.19666,
+                                "lon": 6.54032
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.19627,
+                                    "lon": 6.5393
+                                },
+                                "northEast": {
+                                    "lat": 53.19702,
+                                    "lon": 6.542
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 407,
+                                    "text": "De afrit is dicht"
+                                }
+                            ],
+                            "start": "2023-07-10T04:00:00Z",
+                            "stop": "2023-09-04T04:00:00Z",
+                            "reason": "De afrit is dicht. Van 10 juli 2023 06:00 uur tot 4 september 2023 06:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Afsluitdijk",
+                    "end": "Heerenveen",
+                    "roadworks": [
+                        {
+                            "id": 364752826,
+                            "road": "A7",
+                            "segmentId": 3402,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "Sneek-Oost",
+                            "fromLoc": {
+                                "lat": 53.02164,
+                                "lon": 5.67668
+                            },
+                            "to": "Joure-West",
+                            "toLoc": {
+                                "lat": 52.96332,
+                                "lon": 5.76909
+                            },
+                            "polyline": "mxrbI}`sa@Ae@A_ACgBAsA?w@?Q?c@@k@B}@FsADu@NoBTuBFk@BK@GBMNs@R}@ZoA^oATo@d@iAZw@Rc@Xg@PYNUX]PUJKNSFGLOPQb@c@XYPQXUXYr@u@pAwAd@i@j@m@h@k@`@e@`AcAZ_@TYJMX[nAcATQt@g@dAi@nAm@t@YjAc@rAa@lAa@JERIZMj@Sj@Yl@[j@c@l@_@BAv@i@BAZWn@g@`A{@|@{@@Cr@u@@C|@gAj@s@FIZc@HMJMLQ`@m@PYnAoBz@uA\\i@T_@Xa@T_@d@u@h@y@Xc@T_@Zg@R[R[b@q@HMR[h@{@h@}@Zi@R]LSVc@NW^m@LSf@w@b@s@`@o@d@u@NUXc@Ta@NWHMT_@\\i@Zi@^m@Ze@T]LU^m@b@s@P[PY|@wApAuBlAmBLS^k@NWl@_AR[^o@LSJOHOR[^m@T]PY\\i@R[JQp@gAT_@^o@\\i@Zg@PYNWNURYR]Vc@T_@LSP[Xe@PUVc@T]NUb@s@Xc@Zg@t@iAh@y@h@{@n@cAp@eA\\k@v@oAZg@`@o@Xe@l@_Ad@w@`@o@Ze@^o@j@}@d@w@zAaCx@qAd@u@l@cAJQR[T_@t@mAh@}@bB{CjAaCpAmCXq@^}@Zs@N_@fAuCxAgE~@wCx@qCpBqHbByG|@kDH]tCeLV_ARw@Ne@hCsJz@aDnBcHhC_J\\eA\\mAj@kBxBoHDKBKFUDMZcABKHYFOn@uBTs@HWj@gBHUZgAPm@Na@~CyJ`A{ChCwHpCgI|BmGlCcHrAeDhCkGxB_FvDgIvAyCx@_BxAqCXi@Xi@LUP]R_@LUbAkBjAuBh@_Af@y@~@}A\\k@bAaBr@gArAsBPW^m@Xa@lAgBFIdA{Av@eA~@sAlDwE|@iAb@i@v@aA\\c@nAyAr@_AjAsA~@gAz@_AlAqA`@c@PQhAkAz@{@dAeA~C}Cj@i@JKn@o@TUFGHIxAwAPSNO",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.96201,
+                                    "lon": 5.67327
+                                },
+                                "northEast": {
+                                    "lat": 53.02172,
+                                    "lon": 5.77013
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2023-02-06T14:00:00Z",
+                            "stop": "2024-06-15T16:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 6 februari 2023 15:00 uur tot 15 juni 2024 18:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Heerenveen",
+                    "end": "Afsluitdijk",
+                    "roadworks": [
+                        {
+                            "id": 364752913,
+                            "road": "A7",
+                            "segmentId": 3402,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "Joure-West",
+                            "fromLoc": {
+                                "lat": 52.96332,
+                                "lon": 5.76909
+                            },
+                            "to": "Sneek-West",
+                            "toLoc": {
+                                "lat": 53.03326,
+                                "lon": 5.62217
+                            },
+                            "polyline": "ilgbIwweb@w@t@gAbA{@x@iAhAg@f@a@`@o@p@a@`@MJKLKL_@`@]^i@l@MLw@x@OPq@v@EFSVyAfBaAlAo@x@W\\ORo@x@qAdB{ApB_ArA_B|Bq@bAGJ]f@u@jAoAjBc@r@_AxAy@rAa@p@g@x@_A`Bk@`AU^i@~@Ub@Wd@_@p@KPMTOXYd@ABINABCFOXINUd@Yh@k@fAABEFABGJOXINABINUd@ABEFABKTABc@z@ABCHCBCFCBKTABoAhCABKTABYn@OXc@`AGJUf@[r@ABKTABUf@g@hAwCfHeAlCi@pAc@hAuArD{@|B_AhCmC~HwAnEq@lBiAjDgCzH[`AsDtLELk@nBmBrGQj@a@xA{@tC[jAe@~AENOl@Wz@K\\Qj@Wz@ELOj@K\\U|@ENENIT_@nAK\\ENK\\U|@ITGTQl@K\\CNGTELMf@Qn@ELELELOd@q@~BENaDzLIZs@lCy@bDU|@{@lD[nAk@vBABe@`B[jAo@vBkAtDcAnCKZWn@]z@y@pB[r@qAtCy@`BWd@]n@[l@k@`Ag@z@S\\QXKRQZg@z@EFU^_@l@s@hAWb@k@|@W`@MR]h@U^SZGJOVMRCBEFABEFABEFCBGJOT_@l@GJYb@OVEFCBEFGJABEFCBEF_@l@CBEFABEFABY`@OVGJGJOTMRGJCBEFGJABGJU^ABEFABGJEFABY`@MRABOVGJGJABEFCBGJGJGJSZYf@]h@QZy@tACDILKNILc@r@KPU\\QVSXMRMRMTOVKRKPg@v@MPW`@EFSXKPEHEHILOTILMRILINOTOVm@|@OT_@j@QX[f@KNMROV[f@SXEHOVINYd@c@p@U^c@n@MTo@bA[h@a@n@SZOVo@bAS\\QX_@j@MTU\\U\\KP_@j@]j@KN_CtDi@v@MTi@z@QXMT[d@MPINu@jA_@l@i@x@U^c@p@c@r@[d@]n@SZk@~@GJ_@l@KNGJU\\[d@g@x@U\\iBtCSZ]h@c@n@U\\OT[b@i@t@QRQR}@dAQPc@d@a@^AB[Xo@h@IFg@^[Tg@\\A@MHA@{@d@SJe@TA@gAd@_@NIDKBKDoAb@i@PsA`@}@Z}@^g@TOF_@RC@w@d@C@w@h@C@e@\\OLC@k@d@CBo@j@k@h@CBiAjAeAhAABEDCBIHi@j@KJCBCB]^UV{@`AWXQRORm@r@MPEDIJIJOPa@h@CBEFSXU\\GJCBU^GJABKRCBUd@CHCBMXCBABABKTIPMZ[bAABK\\]zASlAE\\CNCRIh@OfAGl@MdBE|@EnACrA?lE@b@?R?P?V?f@?R?n@?h@?T?JAnB?D?dB?f@?n@?f@AX?V?D?Z?F?L?B?n@?D?J?D?b@?n@?D?J?D?\\?DCzC?DAn@?DC|BClA?RElIC|C?PAv@QjL?b@EjC?HElDAhB?jA[lX?L?ZCX?^Aj@?n@?NK|JAt@?b@CzA?dBCj@EjA?VC\\AXATANCt@Cl@C^Cb@Et@I|@Eh@Eb@E^Kv@EVEVCLEVIf@ERMn@Qx@Qt@U~@WbASp@[dAQl@GPELENIVOd@Ob@e@vAy@fCUt@s@zB]hAc@nAUv@[~@Up@Sl@IXO`@K\\EJCHGTIVIZMf@Oj@I`@GXQ~@QjAGd@Id@Ed@K|@Iz@C`@IlACf@Cl@Cn@EpCC|AAf@C`BEhCI~BOfCMxAI|@Iv@a@pCSjAUlAUdA[nAc@|A_@lA_@dA[z@[r@m@nAQ\\MTW`@]j@e@p@Y`@]d@c@f@ONg@b@e@Ze@Z]Te@\\[T_@`@[Ti@`@gAt@u@f@yAbAgAt@SNA?GDaAr@aAn@UPs@f@UNc@XSLMHIFOLWNe@Zc@ZeAr@_@V",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.96341,
+                                    "lon": 5.62023
+                                },
+                                "northEast": {
+                                    "lat": 53.03587,
+                                    "lon": 5.76908
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2023-02-06T14:00:00Z",
+                            "stop": "2024-06-15T16:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 6 februari 2023 15:00 uur tot 15 juni 2024 18:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A10",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "knp. Watergraafsmeer",
+                    "end": "knp. De Nieuwe Meer",
+                    "jams": [
+                        {
+                            "id": 20503761,
+                            "road": "A10",
+                            "segmentId": 3014,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Coenplein",
+                            "fromLoc": {
+                                "lat": 52.42345,
+                                "lon": 4.87788
+                            },
+                            "to": "Amsterdam-Sloterdijk",
+                            "toLoc": {
+                                "lat": 52.39215,
+                                "lon": 4.84418
+                            },
+                            "polyline": "sg~~Hkny\\B|@Bx@Bt@Bz@NvCJnBF~@Dv@LtARfCFr@Fp@RfBFd@Jz@LfANfAL~@XjBP`ANbAJp@F`@F^BRFf@D`@F`@DRBRTxAH`@Hd@Hb@NfAHd@Jr@r@hEJr@Jp@DXDTTdAFTL`@DLRh@Nb@r@fBl@pA~AvCl@fA^f@|BbDh@r@r@v@b@f@RRDDZ^VVZ\\h@j@r@n@|@z@\\Z^Zb@b@bA|@jC~BzAzAZZjLlK~BpBp@l@bA~@FF|@|@z@x@\\\\HFTV\\X`D|CfAdAt@t@`@`@^^`@b@x@|@X\\t@`A^f@b@l@pA`Bd@j@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.40803,
+                                    "lon": 4.85772
+                                },
+                                "northEast": {
+                                    "lat": 52.42506,
+                                    "lon": 4.88694
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 115,
+                                    "text": "Langzaam rijdend verkeer",
+                                    "distance": 1200
+                                },
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "distance": 1200,
+                            "delay": 60,
+                            "start": "2023-07-30T14:47:30Z",
+                            "stop": "2023-07-31T03:00:00Z",
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ]
+                },
+                {
+                    "start": "knp. Coenplein",
+                    "end": "knp. De Nieuwe Meer",
+                    "roadworks": [
+                        {
+                            "id": 397862510,
+                            "road": "A10",
+                            "segmentId": 3014,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "de Coentunnel",
+                            "fromLoc": {
+                                "lat": 52.415,
+                                "lon": 4.86534
+                            },
+                            "to": "knp. De Nieuwe Meer",
+                            "toLoc": {
+                                "lat": 52.33803,
+                                "lon": 4.84207
+                            },
+                            "polyline": "my|~Hmsu\\v@r@jC~BzAzAZZjLlK~BpBp@l@bA~@FF|@|@z@x@\\\\HFTV\\X`D|CfAdAt@t@`@`@^^`@b@x@|@X\\t@`A^f@b@l@pA`B`BrBn@~@l@z@h@v@h@v@h@v@f@v@HJBJ@FBDDFPVf@p@RVRXRZt@fAPTX\\l@`AN`@BH@DBFZd@t@x@t@`Ad@l@v@~@n@x@dB~Bl@v@^d@rAjB`BvBd@l@HLFH^f@JL^b@LP\\b@NRJNJLFF`@h@jAzAh@p@lAxA|AlBLNz@|@`AbAhA|@n@b@n@^n@Zj@X^Pd@Rt@PJBTFr@LXDPDj@HTBPBR@b@Dr@B|@BdA?~@An@C\\Av@A\\Ar@Cz@E|@?`@?n@AdAEbACr@CbAEd@AR?XCh@Cf@CXAXCN?P?\\ARAX?f@CN@NAz@CdBE`CEbCG`EIRAF?F?H?D?VAdAC@?XAp@CL?fACt@AjBEJ?T?r@Cn@An@ATATAp@At@A^?d@?P?L?z@@|@DXBd@D^DJ@RBF@RBF@XFZFj@NXHb@Ll@PHBRHRFLDLDHBPFf@NPFd@N~@Xr@Tx@Xf@NtAb@d@NFBD@LDTHLDHBF@LD^J`@JTFZHXHb@Jf@J^H`@Fd@H@?\\Db@FVBd@DXB\\BJ@d@BT@`@@\\@T?R@X?^@f@?bAA^?V?p@Al@?h@Al@APAJ?b@B\\?x@AbAEd@A`@?TAh@?\\?x@AfAAbBAhAAr@AvAAbCCzAA^AJ?nCCl@Ad@?pDEz@A|@AxCChEEl@AT?dAA~@ArAA`AAh@AlCCjCC\\AP?h@?h@?jAAlAAR?`BCr@Ad@?H?f@?xC@P?^?^?L?N?H?R?L?J@H@H?b@@T@H@J@B?PBD@L@d@FXDh@LNB^HXHRF^LLDh@P\\Jb@PRHd@Pp@Vh@P^LJDJBh@NXFn@L\\Fd@F^D^D^BXBD?X@^@^@j@?t@?B?r@?TAb@AZ?VAv@CdACj@Hx@AbA?~@CdB@R?nAAB?l@Ad@A|@CdAEb@CRAlAI`@En@Il@Gd@Gn@Kp@Md@Ib@K\\MTKHENIPM\\YNOV[PWR]N[JWHUL]La@RaAHe@Fe@De@@IB]Fq@@_@@a@@k@@q@?aA?e@?c@B]Be@Cg@EuB?O?CAS?K?WCk@A[Ai@?U?M?KI}CCcAAc@?WEiDG_D?k@Aa@Cq@EsBC_AAUEcC?MAWCg@Co@Ay@Cs@E}BCw@A_@Ae@CqBEuBCq@?OAg@Cu@CgBAYC}@Ag@CgA",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.33715,
+                                    "lon": 4.84087
+                                },
+                                "northEast": {
+                                    "lat": 52.41767,
+                                    "lon": 4.86727
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2023-07-28T19:00:00Z",
+                            "stop": "2023-07-31T03:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 28 juli 2023 21:00 uur tot 31 juli 2023 05:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "knp. Coenplein",
+                    "end": "knp. Watergraafsmeer",
+                    "radars": [
+                        {
+                            "id": 69178883,
+                            "road": "A10",
+                            "segmentId": 3015,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "radars",
+                            "incidentType": "radar",
+                            "from": "Landsmeer",
+                            "fromLoc": {
+                                "lat": 52.41932,
+                                "lon": 4.91057
+                            },
+                            "to": "Durgerdam",
+                            "toLoc": {
+                                "lat": 52.38961,
+                                "lon": 4.96719
+                            },
+                            "loc": {
+                                "lat": 52.40483,
+                                "lon": 4.94692
+                            },
+                            "HM": 4.8,
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.38673,
+                                    "lon": 4.9076
+                                },
+                                "northEast": {
+                                    "lat": 52.42059,
+                                    "lon": 4.96951
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 3101,
+                                    "text": "Snelheidscontrole"
+                                }
+                            ],
+                            "reason": "Bij hectometerpaal 4.8."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A12",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Arnhem",
+                    "end": "Duitse grens",
+                    "roadworks": [
+                        {
+                            "id": 228380500,
+                            "road": "A12",
+                            "segmentId": 3022,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "knp. Velperbroek",
+                            "fromLoc": {
+                                "lat": 51.9819,
+                                "lon": 5.97862
+                            },
+                            "to": "knp. Velperbroek",
+                            "toLoc": {
+                                "lat": 51.9819,
+                                "lon": 5.97862
+                            },
+                            "polyline": "kih|Hwtlc@Z_BNs@BMHe@RaAZ}Ap@gDF_@Hc@Jc@TgAJi@TcAPy@Jk@Ha@DWDS`@uBBQDSF]Nw@BMDODWBQf@gCDQDWTgAFWLm@FWHYVeABMJ_@Le@Po@Lc@FUBMNg@\\eANg@Ni@Vu@Rk@Pk@j@{APg@HSTo@Ty@z@uBfAcCrAoCr@sAdAkBpBeDj@aApCyE",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.97756,
+                                    "lon": 5.96828
+                                },
+                                "northEast": {
+                                    "lat": 51.98502,
+                                    "lon": 5.98618
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2020-01-13T21:00:00Z",
+                            "stop": "2023-12-31T04:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 13 januari 2020 22:00 uur tot 31 december 2023 05:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Den Haag",
+                    "end": "Utrecht",
+                    "roadworks": [
+                        {
+                            "id": 324867730,
+                            "road": "A12",
+                            "segmentId": 3020,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Nieuwegein",
+                            "fromLoc": {
+                                "lat": 52.06139,
+                                "lon": 5.09007
+                            },
+                            "to": "Nieuwegein",
+                            "toLoc": {
+                                "lat": 52.06139,
+                                "lon": 5.09007
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.06075,
+                                    "lon": 5.08954
+                                },
+                                "northEast": {
+                                    "lat": 52.06123,
+                                    "lon": 5.09477
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 406,
+                                    "text": "De oprit is dicht"
+                                }
+                            ],
+                            "start": "2022-06-18T05:00:00Z",
+                            "stop": "2024-02-26T04:00:00Z",
+                            "reason": "De oprit is dicht. Van 18 juni 2022 07:00 uur tot 26 februari 2024 05:00 uur."
+                        },
+                        {
+                            "id": 321522106,
+                            "road": "A12",
+                            "segmentId": 3020,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "Nieuwegein",
+                            "fromLoc": {
+                                "lat": 52.06139,
+                                "lon": 5.09007
+                            },
+                            "to": "Kanaleneiland",
+                            "toLoc": {
+                                "lat": 52.05972,
+                                "lon": 5.10635
+                            },
+                            "polyline": "uew|Hs`a^Bm@Bo@DoA@SHoB@a@B]@QVcGDgABe@FkAB[NwD@UFoAFsABa@BY@SBc@Ba@D_ADmADw@Bk@Dm@Bq@Dy@H}ADs@Du@LeCJsBRcFNwDLgCLsCFkAHsAJaBJcB",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.05961,
+                                    "lon": 5.08954
+                                },
+                                "northEast": {
+                                    "lat": 52.06123,
+                                    "lon": 5.10595
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2022-06-12T22:01:00Z",
+                            "stop": "2024-12-31T23:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 13 juni 2022 00:01 uur tot 1 januari 2025 00:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Utrecht",
+                    "end": "Arnhem",
+                    "roadworks": [
+                        {
+                            "id": 382418562,
+                            "road": "A12",
+                            "segmentId": 3021,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Grijsoord",
+                            "fromLoc": {
+                                "lat": 52.02516,
+                                "lon": 5.81885
+                            },
+                            "to": "knp. Waterberg",
+                            "toLoc": {
+                                "lat": 52.01615,
+                                "lon": 5.92203
+                            },
+                            "polyline": "m|o|Hy|mb@C[IaAOoBGaAMcBKiAI_AE_@AOE_@CYEg@]iEi@aH[cEUoCMwACWGs@Gs@CUGu@Eu@AIAUSoBI_AQ_CCWC]IcAEs@Eg@Gw@IaAEc@OcBSeCG{@I_Ay@yKE]IaAIy@OuBs@_Jc@uFOqBOoB]cEQ_CKmAm@sHGy@Go@OqBK}AMmBOwBCk@OgCGiACc@Cg@Eo@C_@Cw@E{@Co@C{@Co@AQ?MAWAe@E}@Co@Ac@Ag@EcAA{@CaAAa@EcAAe@AcAAaAEkBAaACiAAi@?m@CuA?o@CaD?U@YAk@?c@?k@?gA?iA?mA?aB@i@@iB@qABiB@s@?a@@WBwBFeC?W@WB{@BaA@g@@W@[B{@Bi@FuAJeCB_ADq@J{BBa@B_@TcEDcAF}@JiBDg@B_@Ba@Dq@TuCL{ANsBVsCBi@Ju@JiARmBBUBWFm@Fg@Fg@Hu@Jw@NkAJ_ANmADe@Da@BQF[BQD]Jy@Hm@NaAT_BTyAHa@Jw@NaALq@ZiBLs@R_AN{@Jk@RaA\\oBJi@Ny@b@}Bn@gDVsAR_A`@{BPaA\\iB`@sBv@kETmAr@{Db@{Bn@gDp@oDZaBd@eCRiAN{@ZkBHc@He@F_@@KXgBJk@Ly@N_ARoAZ{BTgBTaBPsAZmCHg@Da@P}ATyBFg@P}AB[VaCRcCDc@Ba@NiBFm@JsAf@iGFy@BYBYBWDe@PmB\\oDHiADa@Dk@`@oF^kFHcAJuADi@d@sF`A}Lr@kIDi@Fq@ZyDh@{FjAuNRoCBU@KBWDq@Dc@B[B[BURaCNuBJuAZsDHcAB]|@{KHy@Hq@f@sGBW@IF}@XuCBSBYDa@PqBFy@L}ATiCBa@TmCDi@BSBSB[Hy@Fs@^{CL_AHo@Da@Fc@PkAD[Fa@F]He@Ha@V_BXyARs@b@gBXoAp@{C",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.01336,
+                                    "lon": 5.81085
+                                },
+                                "northEast": {
+                                    "lat": 52.02875,
+                                    "lon": 5.93574
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-31T03:00:00Z",
+                            "stop": "2023-08-09T02:00:00Z",
+                            "reason": "Dicht. Van 31 juli 2023 05:00 uur tot 9 augustus 2023 04:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A15",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Rotterdam",
+                    "end": "Gorinchem",
+                    "jams": [
+                        {
+                            "id": 20507744,
+                            "road": "A15",
+                            "segmentId": 3056,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Ridderkerk",
+                            "fromLoc": {
+                                "lat": 51.85802,
+                                "lon": 4.59671
+                            },
+                            "to": "Alblasserdam",
+                            "toLoc": {
+                                "lat": 51.85069,
+                                "lon": 4.6778
+                            },
+                            "polyline": "mco{Hoka[EaCIyCGyBCcACeAAi@UwJMeJ?_@?gBAuBAeB?g@?m@?eA?oA@}C?eB@uC@sE@oDBkE?uB?gB@kH?qA@oF?mB?}@?w@?eA?S?yC?kBCeE?iC?eC?wF?]?[?wFAiC?_BAcDAwAA}@AuAEsECqCGsDE{BOwHKeDAg@EwAA_@EsA?KGgBIiCK{CImBEwAGwAEsAE_ACm@?OAUEsAGsBCcAIaCCeAAk@Cs@Am@KoKAaACuB?aB?]AoFC}B?g@E{FEkECeEA}C?oAAqA?mA?oAA_D?mE?s@?S?w@?gD?q@@oABgAB}ABqABo@Bi@Bk@DcAD{@FeADi@H{@Dq@N{AJeAHw@Js@NcANiANy@TqA^oBZuANo@Ns@Le@Pm@J]Nk@ZcAPk@HYJ]L[`AgCTi@`@w@Xu@NYb@y@d@cAb@}@~@iB~@eBlAeCJSd@{@l@iAd@_AdBmDj@qAdAeCh@oAJUJWh@sAPa@Vm@\\{@HWn@cBt@oBdAyC",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.84949,
+                                    "lon": 4.59976
+                                },
+                                "northEast": {
+                                    "lat": 51.85756,
+                                    "lon": 4.6802
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 921,
+                                    "text": "Door een hevige brand"
+                                }
+                            ],
+                            "reason": "Dicht. Door een hevige brand. Verkeer via de A16 en N3."
+                        }
+                    ]
+                },
+                {
+                    "start": "Gorinchem",
+                    "end": "Rotterdam",
+                    "jams": [
+                        {
+                            "id": 20507726,
+                            "road": "A15",
+                            "segmentId": 3056,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Sliedrecht-West",
+                            "fromLoc": {
+                                "lat": 51.83156,
+                                "lon": 4.74547
+                            },
+                            "to": "Alblasserdam",
+                            "toLoc": {
+                                "lat": 51.85069,
+                                "lon": 4.6778
+                            },
+                            "polyline": "iqj{Hyy|[a@zBY`Bu@pEy@dFUzAG`@G\\_@lC[`CWlBgAlI{@zFoAvIu@jFw@hFmAhI_ArGeAlH",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.83269,
+                                    "lon": 4.72275
+                                },
+                                "northEast": {
+                                    "lat": 51.83683,
+                                    "lon": 4.74029
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 115,
+                                    "text": "Langzaam rijdend verkeer",
+                                    "distance": 1200
+                                },
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 921,
+                                    "text": "Door een hevige brand"
+                                }
+                            ],
+                            "distance": 1200,
+                            "delay": 60,
+                            "start": "2023-07-30T14:43:30Z",
+                            "reason": "Dicht. Door een hevige brand. Verkeer via de N3 en de A16."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A28",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Zwolle",
+                    "end": "Groningen",
+                    "jams": [
+                        {
+                            "id": 20440866,
+                            "road": "A28",
+                            "segmentId": 3193,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Groningen-Zuid",
+                            "fromLoc": {
+                                "lat": 53.19272,
+                                "lon": 6.56425
+                            },
+                            "to": "Groningen-Zuid",
+                            "toLoc": {
+                                "lat": 53.19272,
+                                "lon": 6.56425
+                            },
+                            "polyline": "cescIgwag@[Ze@b@a@\\a@Zc@Z",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.18754,
+                                    "lon": 6.56697
+                                },
+                                "northEast": {
+                                    "lat": 53.18839,
+                                    "lon": 6.56772
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ],
+                    "roadworks": [
+                        {
+                            "id": 395471679,
+                            "road": "A28",
+                            "segmentId": 3193,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "Haren",
+                            "fromLoc": {
+                                "lat": 53.16687,
+                                "lon": 6.59182
+                            },
+                            "to": "knp. Julianaplein",
+                            "toLoc": {
+                                "lat": 53.20328,
+                                "lon": 6.56466
+                            },
+                            "polyline": "okncIcxfg@}@VcAZq@Pm@NmBf@}Ab@kAZcD|@MBiAZkAZw@R_HnBmCp@uAb@WJKDOFWJe@Tc@T]Ro@^y@h@OJOJm@f@KJs@n@cAfASVSTKLwAfBy@fAq@z@wAjBORig@jp@w@bA}BxC[`@[b@c@j@]d@a@j@g@t@i@|@Ub@S\\c@|@EHYl@]x@Uj@Uj@ITM^Sh@Yx@u@zBaAzCGR]bAM\\CJc@nASh@O`@Qd@]x@O^]t@Wh@GLOVWd@QV[h@y@nA]d@GHQTg@l@SV_@`@_@`@_@^e@b@a@\\a@Zc@ZYPKHEBA@QJc@Vg@X]Rw@`@_@P}Ax@wAp@u@\\a@RiAj@yAr@iAh@g@VWLg@VOH{BfA{@`@IBe@Tc@PUJUHUF_@JMBYFg@JYDi@FS@O@e@BI?Y@S?Y?O?YASCWC[Cc@GYEEASEYG_@IUGKCYGSGUKOGKEOGSKMGYMWMcAk@USeBkAgE{Cu@w@aC{Be@Wg@a@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.16296,
+                                    "lon": 6.56309
+                                },
+                                "northEast": {
+                                    "lat": 53.20191,
+                                    "lon": 6.59346
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2023-07-10T04:00:00Z",
+                            "stop": "2023-08-11T20:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 10 juli 2023 06:00 uur tot 11 augustus 2023 22:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Utrecht",
+                    "end": "Amersfoort",
+                    "roadworks": [
+                        {
+                            "id": 398186389,
+                            "road": "A28",
+                            "segmentId": 3190,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "afrit Maarn",
+                            "fromLoc": {
+                                "lat": 52.12901,
+                                "lon": 5.36755
+                            },
+                            "to": "afrit Maarn",
+                            "toLoc": {
+                                "lat": 52.12901,
+                                "lon": 5.36755
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.12729,
+                                    "lon": 5.35969
+                                },
+                                "northEast": {
+                                    "lat": 52.13366,
+                                    "lon": 5.39385
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 471,
+                                    "text": "Oprit dicht"
+                                }
+                            ],
+                            "start": "2023-07-31T18:00:00Z",
+                            "stop": "2023-08-01T03:00:00Z",
+                            "reason": "Oprit dicht. Van 31 juli 2023 20:00 uur tot 1 augustus 2023 05:00 uur."
+                        },
+                        {
+                            "id": 398186388,
+                            "road": "A28",
+                            "segmentId": 3190,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "afrit Den Dolder",
+                            "fromLoc": {
+                                "lat": 52.10708,
+                                "lon": 5.26284
+                            },
+                            "to": "Soesterberg",
+                            "toLoc": {
+                                "lat": 52.11575,
+                                "lon": 5.30564
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.10691,
+                                    "lon": 5.26251
+                                },
+                                "northEast": {
+                                    "lat": 52.11597,
+                                    "lon": 5.31031
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 475,
+                                    "text": "De afrit is dicht"
+                                }
+                            ],
+                            "start": "2023-07-31T18:00:00Z",
+                            "stop": "2023-08-01T03:00:00Z",
+                            "reason": "De afrit is dicht. Van 31 juli 2023 20:00 uur tot 1 augustus 2023 05:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A29",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Bergen op Zoom",
+                    "end": "Rotterdam",
+                    "jams": [
+                        {
+                            "id": 394384735,
+                            "road": "A29",
+                            "segmentId": 3210,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Haringvlietbrug",
+                            "fromLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "to": "de Haringvlietbrug",
+                            "toLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "polyline": "wurzHo{yYy@c@s@_@a@U[QkBcAms@y_@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.71052,
+                                    "lon": 4.39752
+                                },
+                                "northEast": {
+                                    "lat": 51.72031,
+                                    "lon": 4.40365
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ],
+                    "roadworks": [
+                        {
+                            "id": 392808497,
+                            "road": "A29",
+                            "segmentId": 3210,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "de Heinenoordtunnel",
+                            "fromLoc": {
+                                "lat": 51.83245,
+                                "lon": 4.5113
+                            },
+                            "to": "de Heinenoordtunnel",
+                            "toLoc": {
+                                "lat": 51.83245,
+                                "lon": 4.5113
+                            },
+                            "polyline": "}}i{HswoZWQYSYS[Si@YIGqAw@w@c@yBgAUMkDsBeDmBIGIEKGMISKQKm@_@k@[]UYOyBoAMGUMQKo@_@UK[OIEIEOGg@Sa@Qe@SOG",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.82959,
+                                    "lon": 4.50954
+                                },
+                                "northEast": {
+                                    "lat": 51.83681,
+                                    "lon": 4.51419
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2023-08-04T23:00:00Z",
+                            "stop": "2023-08-31T23:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 5 augustus 2023 01:00 uur tot 1 september 2023 01:00 uur."
+                        },
+                        {
+                            "id": 366604291,
+                            "road": "A29",
+                            "segmentId": 3210,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Haringvlietbrug",
+                            "fromLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "to": "de Haringvlietbrug",
+                            "toLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "polyline": "wurzHo{yYy@c@s@_@a@U[QkBcAms@y_@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.71052,
+                                    "lon": 4.39752
+                                },
+                                "northEast": {
+                                    "lat": 51.72031,
+                                    "lon": 4.40365
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 402,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-06-09T20:00:00Z",
+                            "stop": "2023-08-04T21:00:00Z",
+                            "reason": "Dicht. Van 9 juni 2023 22:00 uur tot 4 augustus 2023 23:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Rotterdam",
+                    "end": "Bergen op Zoom",
+                    "jams": [
+                        {
+                            "id": 3943847350,
+                            "road": "A29",
+                            "segmentId": 3210,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Haringvlietbrug",
+                            "fromLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "to": "de Haringvlietbrug",
+                            "toLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "polyline": "astzHaa{YpGjDb[rPbR~JbCpAf@V",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.71054,
+                                    "lon": 4.3974
+                                },
+                                "northEast": {
+                                    "lat": 51.72033,
+                                    "lon": 4.40353
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ],
+                    "roadworks": [
+                        {
+                            "id": 3928084970,
+                            "road": "A29",
+                            "segmentId": 3210,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "incidentType": "roadwork",
+                            "from": "de Heinenoordtunnel",
+                            "fromLoc": {
+                                "lat": 51.83245,
+                                "lon": 4.5113
+                            },
+                            "to": "de Heinenoordtunnel",
+                            "toLoc": {
+                                "lat": 51.83245,
+                                "lon": 4.5113
+                            },
+                            "polyline": "eik{HarpZ??`CbAlAl@VLLH`DjBpAr@tGxD|LpHBBDBHFHDVPl@`@j@`@nA|@B@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.8293,
+                                    "lon": 4.50896
+                                },
+                                "northEast": {
+                                    "lat": 51.83651,
+                                    "lon": 4.51377
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "start": "2023-08-04T23:00:00Z",
+                            "stop": "2023-08-31T23:00:00Z",
+                            "reason": "Wegwerkzaamheden. Van 5 augustus 2023 01:00 uur tot 1 september 2023 01:00 uur."
+                        },
+                        {
+                            "id": 3666042910,
+                            "road": "A29",
+                            "segmentId": 3210,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Haringvlietbrug",
+                            "fromLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "to": "de Haringvlietbrug",
+                            "toLoc": {
+                                "lat": 51.71358,
+                                "lon": 4.39935
+                            },
+                            "polyline": "astzHaa{YpGjDb[rPbR~JbCpAf@V",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.71054,
+                                    "lon": 4.3974
+                                },
+                                "northEast": {
+                                    "lat": 51.72033,
+                                    "lon": 4.40353
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 402,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-06-09T20:00:00Z",
+                            "stop": "2023-08-04T21:00:00Z",
+                            "reason": "Dicht. Van 9 juni 2023 22:00 uur tot 4 augustus 2023 23:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A31",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Leeuwarden",
+                    "end": "Harlingen",
+                    "radars": [
+                        {
+                            "id": 4276341214,
+                            "road": "A31",
+                            "segmentId": 3231,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "radars",
+                            "incidentType": "radar",
+                            "from": "Franeker",
+                            "fromLoc": {
+                                "lat": 53.20072,
+                                "lon": 5.5424
+                            },
+                            "to": "Harlingen-Havens",
+                            "toLoc": {
+                                "lat": 53.18427,
+                                "lon": 5.46003
+                            },
+                            "loc": {
+                                "lat": 53.19793,
+                                "lon": 5.51921
+                            },
+                            "HM": 21.8,
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.18595,
+                                    "lon": 5.4648
+                                },
+                                "northEast": {
+                                    "lat": 53.20138,
+                                    "lon": 5.55019
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 3101,
+                                    "text": "Snelheidscontrole"
+                                }
+                            ],
+                            "reason": "Bij hectometerpaal 21.8."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A32",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Meppel",
+                    "end": "Heerenveen",
+                    "roadworks": [
+                        {
+                            "id": 398128942,
+                            "road": "A32",
+                            "segmentId": 3240,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Meppel",
+                            "fromLoc": {
+                                "lat": 52.69026,
+                                "lon": 6.20644
+                            },
+                            "to": "Meppel",
+                            "toLoc": {
+                                "lat": 52.69026,
+                                "lon": 6.20644
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.68817,
+                                    "lon": 6.20547
+                                },
+                                "northEast": {
+                                    "lat": 52.69339,
+                                    "lon": 6.20774
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 408,
+                                    "text": "De op- en afrit is dicht"
+                                }
+                            ],
+                            "start": "2023-07-31T04:00:00Z",
+                            "stop": "2023-08-04T20:00:00Z",
+                            "reason": "De op- en afrit is dicht. Van 31 juli 2023 06:00 uur tot 4 augustus 2023 22:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A50",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Apeldoorn",
+                    "end": "Arnhem",
+                    "radars": [
+                        {
+                            "id": 2589298031,
+                            "road": "A50",
+                            "segmentId": 3341,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "radars",
+                            "incidentType": "radar",
+                            "from": "afrit Loenen",
+                            "fromLoc": {
+                                "lat": 52.14013,
+                                "lon": 5.99024
+                            },
+                            "to": "afrit Hoenderloo",
+                            "toLoc": {
+                                "lat": 52.1223,
+                                "lon": 5.95538
+                            },
+                            "loc": {
+                                "lat": 52.13547,
+                                "lon": 5.98092
+                            },
+                            "HM": 196.9,
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.12131,
+                                    "lon": 5.95419
+                                },
+                                "northEast": {
+                                    "lat": 52.14352,
+                                    "lon": 5.99617
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 3101,
+                                    "text": "Snelheidscontrole"
+                                }
+                            ],
+                            "reason": "Bij hectometerpaal 196.9."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A73",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Maasbracht",
+                    "end": "Nijmegen",
+                    "jams": [
+                        {
+                            "id": 20433704,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Het Vonderen",
+                            "fromLoc": {
+                                "lat": 51.12212,
+                                "lon": 5.88136
+                            },
+                            "to": "Beesel",
+                            "toLoc": {
+                                "lat": 51.26335,
+                                "lon": 6.06831
+                            },
+                            "polyline": "{z_wH{_|b@IYm@}B[aA_@kAMa@}@iCa@oAq@yBSo@c@wAuAaFy@_Dy@aDu@eDo@gCSaA[yAc@{BOu@YyA}@iEYoAy@sDg@yBk@}B]sAI[YkA_@wA[gA}@aDOg@Ss@Me@i@aBW{@GSo@kBq@oBSi@s@mBiAsCgBeEq@{AS_@MS{BqEm@mAk@iAa@y@a@y@[o@}@aBYm@k@eAs@sAg@aAa@w@m@mAOYc@}@cAqB_BaDgBuDiA_CUi@EK}@mBe@eAm@qAy@gBk@mAe@eA]w@k@oAu@eBc@cAe@eA]u@u@iBg@kAw@mBs@gBi@oA[w@u@iBk@wAq@gBe@mAi@wAg@qAe@qA_AeCu@sBmAgDg@uAi@}Ac@oAWw@Ws@M_@i@aBIUIUGQa@oAi@_BaA_D_@oAm@oBW{@e@aBaAqDSs@Ss@Ok@c@{Ae@cBk@mBcAeDa@mA_@eAUo@IU]_Ae@oAe@oAi@oAYs@[s@Yq@k@kAk@mA[q@iA{By@{Am@gA_BkCk@_Aa@q@oB_Do@aAoAsB}@{AOWCGCES_@OY_@m@]o@]o@_@o@OY]o@OWOY]o@[m@]q@MUOY{@aB]o@]o@_@q@]q@]q@]q@OWOY]o@OY]o@]q@]q@]o@]q@OYMWOW]q@_@q@]q@]q@OWOY]o@_@q@]q@]q@]q@OYMWMWMW]o@[o@]q@]o@MYOWm@iAk@gAWg@CGk@gA]q@k@iAk@iAk@gA_@q@S_@Q[GM[m@m@iAg@iAa@w@OYUe@_@u@a@w@Yk@a@w@_@s@{@cBa@w@_@s@]q@Ug@IMe@aAm@gA}@cBm@gAm@kA[m@Yg@We@_@o@[k@q@mAe@{@o@gAe@y@OYKSWc@Uc@]o@_AaB}BcEKQQ[kAyBUc@y@{AeBcDkBkD}@eBoAaCIQ]o@MWO[_@s@Yk@_@u@o@mAs@yA]u@Qc@i@qAe@gASk@M[Qe@Y}@[cA[gAo@aCYeAUeAa@kBQaAMo@AE[yBO_AUaBK}@KmAE_@I{@KoACWIyAAUCYCMAE?QAq@?YC}@C_CKqJBmBBuADaBHqCNmCPoC^iFLcBP_CP{BJwBHyADeADcADuA@_@?O?a@?o@Bk@@g@?c@?Y?{@?u@?[@i@?a@@U?Q?g@?UCy@?Y?k@A_@?a@A_@Cc@C}@Am@IgCIeBGsAG}@OaBQcBQuAQcAOu@Mm@Ki@Ok@Uy@Ss@Ma@Uu@Ma@Qc@IQS_@O[Uc@KUWc@Ye@SYIM[e@Yc@[a@c@k@a@g@SU[a@k@s@W[QWQUu@}@_AkAo@{@c@m@U[SYU]]i@s@kA[i@e@y@y@aBo@qAg@gAYo@KYIQIOKYc@oA[y@GQ]eA_@gAe@yASm@W{@o@qB]eAQi@_@cA]aAs@iBuAaDi@cAk@gAy@{A]m@OYs@gAa@m@}@qAc@k@e@k@i@q@c@e@[_@QQOQ[[YW_B{As@k@[UYSSOMKe@[IGk@_@u@e@cAi@o@_@s@e@oAg@g@QyAg@sA_@cAUk@K}BWw@Eg@Ec@Cw@EE?u@Cw@AS?e@?O?M?I?y@@K@e@Bi@Bo@Fi@D_@Dc@Fe@Fi@Hm@Jk@Le@Ho@LWF[Fw@Pm@N[H[HYHw@ReAZw@T}@XaA\\eA\\m@Ts@Vq@XwAj@yAl@}@`@aAb@iAj@iAl@cAh@o@`@yCzAq@b@]To@b@g@Z]TcAr@wBdBo@f@sAdAi@b@}@t@SPEBe@`@m@j@w@r@kAfAuApA}@v@YTSPm@h@YVu@n@cAv@g@^k@`@{@j@}@h@i@ZYPo@ZgAf@a@Pg@Ri@Rs@Vy@VMDi@Nc@J]HcARg@Hu@J{AP[B_@BU@]@iAB}A@k@Ai@AgAEUAg@Eo@G_AKw@Ke@Iq@Mu@Qk@Oq@Qk@QiAa@s@Wo@Wk@Wo@Y_@Qe@UEC_@SYOSKm@[oCyAe@Wo@]s@a@k@[c@Uo@]wBkA_Ag@w@c@_Ag@o@_@g@YmAo@kBcAq@_@QKSKm@_@q@a@[S_@WmAy@cAu@KIIGc@]c@_@c@]s@m@k@i@KKQQQQKK_@_@[[}AeBi@m@MOSUKOe@m@_@e@a@k@e@q@[e@s@eAQWQWU]KSwBsDOYm@gAe@}@iAyBa@u@eAuB]q@c@{@i@kAmAmCe@gAWm@Oa@Yo@M]Sc@Se@_@}@c@gAuAeDc@eAi@mAYq@oAwCO_@g@kA{@oBCGWk@m@uAUi@_@}@O[gAeCCGYq@cA{By@kBsAyCMWkAaCq@qAc@w@_@o@Wc@i@}@s@iA]g@OUoAgB{@kAo@w@oAyAc@e@]_@a@a@y@y@[[gAcAeA_A]Yc@]eA}@aBsA{@s@i@a@oB_B{AmA}BiBoCuBs@i@s@k@YSUQgBuAm@a@{@o@e@]w@k@m@c@o@e@m@c@{AgAiAy@q@g@cAs@g@_@[Uq@g@o@g@y@o@g@c@KI[Ym@i@w@s@w@w@e@g@_AcAe@g@i@o@IKGG[_@a@i@s@_AUY[c@g@s@o@aAWa@c@q@Ye@Ye@MUo@gAQ[a@u@O[_@q@S_@IMKSKQm@oAe@aAm@sAe@gA_@_AO_@Yw@q@gBCI",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.12254,
+                                    "lon": 5.88302
+                                },
+                                "northEast": {
+                                    "lat": 51.2632,
+                                    "lon": 6.06802
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ],
+                    "roadworks": [
+                        {
+                            "id": 397590511,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Wijchen",
+                            "fromLoc": {
+                                "lat": 51.82339,
+                                "lon": 5.77407
+                            },
+                            "to": "Wijchen",
+                            "toLoc": {
+                                "lat": 51.82339,
+                                "lon": 5.77407
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.82017,
+                                    "lon": 5.77269
+                                },
+                                "northEast": {
+                                    "lat": 51.82769,
+                                    "lon": 5.77588
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 471,
+                                    "text": "Oprit dicht"
+                                }
+                            ],
+                            "start": "2023-07-24T03:00:00Z",
+                            "stop": "2023-08-08T21:00:00Z",
+                            "reason": "Oprit dicht. Van 24 juli 2023 05:00 uur tot 8 augustus 2023 23:00 uur."
+                        },
+                        {
+                            "id": 393329897,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Swalmentunnel",
+                            "fromLoc": {
+                                "lat": 51.23535,
+                                "lon": 6.03215
+                            },
+                            "to": "de Swalmentunnel",
+                            "toLoc": {
+                                "lat": 51.23535,
+                                "lon": 6.03215
+                            },
+                            "polyline": "equwHatxc@?AQWU]KSwBsDOYm@gAe@}@iAyBa@u@eAuB]q@Wg@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.23363,
+                                    "lon": 6.02961
+                                },
+                                "northEast": {
+                                    "lat": 51.23615,
+                                    "lon": 6.03361
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-14T19:00:00Z",
+                            "stop": "2023-08-04T19:00:00Z",
+                            "reason": "Dicht. Van 14 juli 2023 21:00 uur tot 4 augustus 2023 21:00 uur."
+                        },
+                        {
+                            "id": 394749625,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Swalmentunnel",
+                            "fromLoc": {
+                                "lat": 51.23535,
+                                "lon": 6.03215
+                            },
+                            "to": "de Swalmentunnel",
+                            "toLoc": {
+                                "lat": 51.23535,
+                                "lon": 6.03215
+                            },
+                            "polyline": "equwHatxc@?AQWU]KSwBsDOYm@gAe@}@iAyBa@u@eAuB]q@Wg@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.23363,
+                                    "lon": 6.02961
+                                },
+                                "northEast": {
+                                    "lat": 51.23615,
+                                    "lon": 6.03361
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-08-04T19:00:00Z",
+                            "stop": "2023-08-05T07:00:00Z",
+                            "reason": "Dicht. Van 4 augustus 2023 21:00 uur tot 5 augustus 2023 09:00 uur."
+                        },
+                        {
+                            "id": 393329761,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 1,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Roertunnel",
+                            "fromLoc": {
+                                "lat": 51.17517,
+                                "lon": 5.99519
+                            },
+                            "to": "de Roertunnel",
+                            "toLoc": {
+                                "lat": 51.17517,
+                                "lon": 5.99519
+                            },
+                            "polyline": "gxiwHu~nc@M_@Y}@[cA[gAo@aCYeAUeAa@kBQaAMo@AE[yBO_AUaBK}@KmAE_@I{@KoACWIyAAUCYCMAE?QAq@?YC}@C_CKqJBmBBuADaBHqCNmCPoC^iFLcBP_CP{BJwBHyADeADcADuA@_@?O?a@?o@Bk@@g@?c@?Y?{@?u@?[@i@?a@@U?Q?g@?UCy@?Y?k@A_@?a@A_@Cc@C}@Am@IgCIeBGsAG}@OaBQcBQuAQcAOu@Mm@Ki@Ok@Uy@Ss@Ma@Uu@Ma@Qc@IQS_@O[Uc@KUWc@Ye@SYIM[e@Yc@[a@]e@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.17332,
+                                    "lon": 5.98011
+                                },
+                                "northEast": {
+                                    "lat": 51.17731,
+                                    "lon": 6.01242
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-14T19:00:00Z",
+                            "stop": "2023-08-04T07:00:00Z",
+                            "reason": "Dicht. Van 14 juli 2023 21:00 uur tot 4 augustus 2023 09:00 uur."
+                        },
+                        {
+                            "id": 393329913,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Roertunnel",
+                            "fromLoc": {
+                                "lat": 51.17517,
+                                "lon": 5.99519
+                            },
+                            "to": "de Roertunnel",
+                            "toLoc": {
+                                "lat": 51.17517,
+                                "lon": 5.99519
+                            },
+                            "polyline": "gxiwHu~nc@M_@Y}@[cA[gAo@aCYeAUeAa@kBQaAMo@AE[yBO_AUaBK}@KmAE_@I{@KoACWIyAAUCYCMAE?QAq@?YC}@C_CKqJBmBBuADaBHqCNmCPoC^iFLcBP_CP{BJwBHyADeADcADuA@_@?O?a@?o@Bk@@g@?c@?Y?{@?u@?[@i@?a@@U?Q?g@?UCy@?Y?k@A_@?a@A_@Cc@C}@Am@IgCIeBGsAG}@OaBQcBQuAQcAOu@Mm@Ki@Ok@Uy@Ss@Ma@Uu@Ma@Qc@IQS_@O[Uc@KUWc@Ye@SYIM[e@Yc@[a@]e@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.17332,
+                                    "lon": 5.98011
+                                },
+                                "northEast": {
+                                    "lat": 51.17731,
+                                    "lon": 6.01242
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-08-04T19:00:00Z",
+                            "stop": "2023-08-05T07:00:00Z",
+                            "reason": "Dicht. Van 4 augustus 2023 21:00 uur tot 5 augustus 2023 09:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Nijmegen",
+                    "end": "Maasbracht",
+                    "roadworks": [
+                        {
+                            "id": 3947496250,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Swalmentunnel",
+                            "fromLoc": {
+                                "lat": 51.23535,
+                                "lon": 6.03215
+                            },
+                            "to": "de Swalmentunnel",
+                            "toLoc": {
+                                "lat": 51.23535,
+                                "lon": 6.03215
+                            },
+                            "polyline": "a_vwHahyc@Xj@p@pAz@~Ar@pAf@~@n@hAv@pAd@v@t@lAHLDFf@t@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.23345,
+                                    "lon": 6.02914
+                                },
+                                "northEast": {
+                                    "lat": 51.23585,
+                                    "lon": 6.03281
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-08-04T19:00:00Z",
+                            "stop": "2023-08-05T07:00:00Z",
+                            "reason": "Dicht. Van 4 augustus 2023 21:00 uur tot 5 augustus 2023 09:00 uur."
+                        },
+                        {
+                            "id": 397590351,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Wijchen",
+                            "fromLoc": {
+                                "lat": 51.82339,
+                                "lon": 5.77407
+                            },
+                            "to": "Wijchen",
+                            "toLoc": {
+                                "lat": 51.82339,
+                                "lon": 5.77407
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.81992,
+                                    "lon": 5.77255
+                                },
+                                "northEast": {
+                                    "lat": 51.8274,
+                                    "lon": 5.7758
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 474,
+                                    "text": "Afrit dicht"
+                                }
+                            ],
+                            "start": "2023-07-24T02:00:00Z",
+                            "stop": "2023-08-08T21:00:00Z",
+                            "reason": "Afrit dicht. Van 24 juli 2023 04:00 uur tot 8 augustus 2023 23:00 uur."
+                        },
+                        {
+                            "id": 3933299130,
+                            "road": "A73",
+                            "segmentId": 3410,
+                            "codeDirection": 2,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de Roertunnel",
+                            "fromLoc": {
+                                "lat": 51.17517,
+                                "lon": 5.99519
+                            },
+                            "to": "de Roertunnel",
+                            "toLoc": {
+                                "lat": 51.17517,
+                                "lon": 5.99519
+                            },
+                            "polyline": "_rjwHmhuc@@BVZZ`@HLJPTZTZ^n@HJJPT`@HPJPXp@Vl@N\\\\|@Rj@HRJZX~@T~@\\zA^rBJ~@Ht@Hp@D\\Dh@Fv@Dl@Bj@H|ABp@Bh@Bn@@b@@ZBnA@f@@j@DtABz@F~@?p@?P?vA@dC?n@AVCd@APGj@E^OtDEdAEj@Et@KnBk@|HG`AUvCQrCK|BKvCMpECjE?pABtA@lB?l@BdA@nA@Z?b@@h@FbABP@V@H@LJlBJ|AXlCP|AFh@T|AN`AD^Jh@@F?B@FX|APz@Px@Rz@H`@t@tCx@lCXx@d@pAb@hA",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.17317,
+                                    "lon": 5.97954
+                                },
+                                "northEast": {
+                                    "lat": 51.17744,
+                                    "lon": 6.01239
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-08-04T19:00:00Z",
+                            "stop": "2023-08-05T07:00:00Z",
+                            "reason": "Dicht. Van 4 augustus 2023 21:00 uur tot 5 augustus 2023 09:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "A326",
+            "type": "a",
+            "segments": [
+                {
+                    "start": "Nijmegen",
+                    "end": "Ravenstein",
+                    "jams": [
+                        {
+                            "id": 397579069,
+                            "road": "A326",
+                            "segmentId": 3263,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Wijchen-Oost",
+                            "fromLoc": {
+                                "lat": 51.82428,
+                                "lon": 5.75777
+                            },
+                            "to": "knp. Bankhoef",
+                            "toLoc": {
+                                "lat": 51.81521,
+                                "lon": 5.67928
+                            },
+                            "polyline": "e}h{Hsscb@G@IBIDGDEDEFGNIPIXAFAT@b@BZDRHRNXBd@?ZAFGl@MdAEb@It@YnCOvASnBWbCyAvN}@lI]bDOtAg@zEW`Co@hGO|AEf@[lECb@KdBOvDCzAEtB?TCnD@fE@lABnA?V@^@\\@j@FxBD~ABn@N~BN`CNdBHfAVjCTpBNlAJv@RvAb@hCX~AVtA\\`B^`BRz@Lh@HZXfAn@tB~@tCxAxDpAbDr@fBrAfDv@nBx@tB\\|@r@fBzAtDrCjH`DdIjAvCp@bBxAvDt@jBjBvEbAfC~@~Br@hB`@bAbBlERf@t@lBnA`DbAfCL\\z@zBb@hAp@nBJ^Rn@Nd@Nf@Pr@Rx@XjADPR|@P|@F\\P~@Jn@F^Fb@NdANhAFf@Hp@D`@JbADh@Dd@Dh@HdA@THvADt@B~@@XDlA?P@t@@l@?z@?dDExDE|ACv@SxDCVIdAKtAGr@CVCXANANGv@OdBU|CYzD]jEUnCShCOxBMrAEt@ALCRI`AOjBKzAGn@Ep@Ef@IdAKnAGt@Cb@Iv@K|@Ej@K~AIrACbAAh@?h@@n@@d@Bl@B`@BRH|@L|@Nr@Nj@Lb@ZbATj@Td@T`@n@~@f@h@l@f@h@Zf@TVHLDRDb@FXBX@`@A^CNC^GBA^MVIRIb@Uj@]hAs@XM`@Q^ORITIXI`@MXGNCRERCb@Ed@C`@?b@@^BZBXBVDb@HVFZH`@Hf@JRB^B",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.80684,
+                                    "lon": 5.67586
+                                },
+                                "northEast": {
+                                    "lat": 51.8272,
+                                    "lon": 5.75818
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ],
+                    "roadworks": [
+                        {
+                            "id": 397531951,
+                            "road": "A326",
+                            "segmentId": 3263,
+                            "codeDirection": 0,
+                            "type": "a",
+                            "afrc": 0,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Wijchen-Oost",
+                            "fromLoc": {
+                                "lat": 51.82428,
+                                "lon": 5.75777
+                            },
+                            "to": "knp. Bankhoef",
+                            "toLoc": {
+                                "lat": 51.81521,
+                                "lon": 5.67928
+                            },
+                            "polyline": "e}h{Hsscb@G@IBIDGDEDEFGNIPIXAFAT@b@BZDRHRNXBd@?ZAFGl@MdAEb@It@YnCOvASnBWbCyAvN}@lI]bDOtAg@zEW`Co@hGO|AEf@[lECb@KdBOvDCzAEtB?TCnD@fE@lABnA?V@^@\\@j@FxBD~ABn@N~BN`CNdBHfAVjCTpBNlAJv@RvAb@hCX~AVtA\\`B^`BRz@Lh@HZXfAn@tB~@tCxAxDpAbDr@fBrAfDv@nBx@tB\\|@r@fBzAtDrCjH`DdIjAvCp@bBxAvDt@jBjBvEbAfC~@~Br@hB`@bAbBlERf@t@lBnA`DbAfCL\\z@zBb@hAp@nBJ^Rn@Nd@Nf@Pr@Rx@XjADPR|@P|@F\\P~@Jn@F^Fb@NdANhAFf@Hp@D`@JbADh@Dd@Dh@HdA@THvADt@B~@@XDlA?P@t@@l@?z@?dDExDE|ACv@SxDCVIdAKtAGr@CVCXANANGv@OdBU|CYzD]jEUnCShCOxBMrAEt@ALCRI`AOjBKzAGn@Ep@Ef@IdAKnAGt@Cb@Iv@K|@Ej@K~AIrACbAAh@?h@@n@@d@Bl@B`@BRH|@L|@Nr@Nj@Lb@ZbATj@Td@T`@n@~@f@h@l@f@h@Zf@TVHLDRDb@FXBX@`@A^CNC^GBA^MVIRIb@Uj@]hAs@XM`@Q^ORITIXI`@MXGNCRERCb@Ed@C`@?b@@^BZBXBVDb@HVFZH`@Hf@JRB^B",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.80684,
+                                    "lon": 5.67586
+                                },
+                                "northEast": {
+                                    "lat": 51.8272,
+                                    "lon": 5.75818
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-23T21:59:00Z",
+                            "stop": "2023-08-09T21:59:00Z",
+                            "reason": "Dicht. Van 23 juli 2023 23:59 uur tot 9 augustus 2023 23:59 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N7",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "de Duitse grens",
+                    "end": "Groningen",
+                    "jams": [
+                        {
+                            "id": 20455636,
+                            "road": "N7",
+                            "segmentId": 3412,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "jams",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Euvelgunne",
+                            "fromLoc": {
+                                "lat": 53.21693,
+                                "lon": 6.61843
+                            },
+                            "to": "Groningen-Zuidoost",
+                            "toLoc": {
+                                "lat": 53.21149,
+                                "lon": 6.58856
+                            },
+                            "polyline": "}_xcIwqlg@cAjAs@f@WPmAjA{@p@g@ZSHSDQBYBS?m@Ee@KYKQIe@]SOe@]SKOEYEW?OBUFSJQNQVMTM`@GTGVMp@YvBMbAKfAOxAEb@CVKxACTEf@Ep@Ed@UpDQdCEh@ItACb@C^IvAEdACf@IvA?|B?n@@b@@n@D~@B\\B^Bt@D\\Fh@D`@BNHn@@HD\\Jl@Jr@\\rBv@nEf@|BdAzEH\\Rr@Nf@h@fBh@dBd@vAJ`@FRPn@BHJ^J^ZjAJ^Pr@VjAJl@F\\F\\Hf@DTJx@@JHp@LbAHp@J~@BRLhATvBbBjOD^LnA@NBRDb@B^B`@?D@V?FBr@@\\@X?V?P?N@j@?F?T?T@b@@`@Bh@B^J`AJx@BRHd@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.21231,
+                                    "lon": 6.59236
+                                },
+                                "northEast": {
+                                    "lat": 53.21778,
+                                    "lon": 6.62316
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                },
+                                {
+                                    "alertC": 701,
+                                    "text": "Wegwerkzaamheden"
+                                }
+                            ],
+                            "reason": "Dicht. Wegwerkzaamheden."
+                        }
+                    ],
+                    "roadworks": [
+                        {
+                            "id": 396104974,
+                            "road": "N7",
+                            "segmentId": 3412,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Euvelgunne",
+                            "fromLoc": {
+                                "lat": 53.21693,
+                                "lon": 6.61843
+                            },
+                            "to": "Groningen-Zuidoost",
+                            "toLoc": {
+                                "lat": 53.21149,
+                                "lon": 6.58856
+                            },
+                            "polyline": "}_xcIwqlg@cAjAs@f@WPmAjA{@p@g@ZSHSDQBYBS?m@Ee@KYKQIe@]SOe@]SKOEYEW?OBUFSJQNQVMTM`@GTGVMp@YvBMbAKfAOxAEb@CVKxACTEf@Ep@Ed@UpDQdCEh@ItACb@C^IvAEdACf@IvA?|B?n@@b@@n@D~@B\\B^Bt@D\\Fh@D`@BNHn@@HD\\Jl@Jr@\\rBv@nEf@|BdAzEH\\Rr@Nf@h@fBh@dBd@vAJ`@FRPn@BHJ^J^ZjAJ^Pr@VjAJl@F\\F\\Hf@DTJx@@JHp@LbAHp@J~@BRLhATvBbBjOD^LnA@NBRDb@B^B`@?D@V?FBr@@\\@X?V?P?N@j@?F?T?T@b@@`@Bh@B^J`AJx@BRJr@H\\H\\J`@dAxDLb@l@hBfAfDLd@Rn@Tr@Ph@^lAJ\\FXF\\Nr@Jd@Hd@H`@^rBFZFZZhAFTHVL`@Vt@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.2103,
+                                    "lon": 6.58491
+                                },
+                                "northEast": {
+                                    "lat": 53.21778,
+                                    "lon": 6.62316
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-14T20:00:00Z",
+                            "stop": "2023-08-31T21:59:00Z",
+                            "reason": "Dicht. Van 14 juli 2023 22:00 uur tot 31 augustus 2023 23:59 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Groningen",
+                    "end": "de Duitse grens",
+                    "roadworks": [
+                        {
+                            "id": 396104682,
+                            "road": "N7",
+                            "segmentId": 3412,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Groningen-Zuidoost",
+                            "fromLoc": {
+                                "lat": 53.21617,
+                                "lon": 6.60687
+                            },
+                            "to": "Groningen-Zuidoost",
+                            "toLoc": {
+                                "lat": 53.21617,
+                                "lon": 6.60687
+                            },
+                            "polyline": "wxxcIinig@EMKc@Kc@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.21628,
+                                    "lon": 6.60725
+                                },
+                                "northEast": {
+                                    "lat": 53.21643,
+                                    "lon": 6.60768
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-14T20:00:00Z",
+                            "stop": "2023-08-31T21:59:00Z",
+                            "reason": "Dicht. Van 14 juli 2023 22:00 uur tot 31 augustus 2023 23:59 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N31",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Leeuwarden",
+                    "end": "Drachten",
+                    "roadworks": [
+                        {
+                            "id": 397532214,
+                            "road": "N31",
+                            "segmentId": 3232,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Leeuwarden-Noord",
+                            "fromLoc": {
+                                "lat": 53.20547,
+                                "lon": 5.74059
+                            },
+                            "to": "Leeuwarden-Noord",
+                            "toLoc": {
+                                "lat": 53.20547,
+                                "lon": 5.74059
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.20501,
+                                    "lon": 5.73427
+                                },
+                                "northEast": {
+                                    "lat": 53.20676,
+                                    "lon": 5.74157
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 407,
+                                    "text": "De afrit is dicht"
+                                }
+                            ],
+                            "start": "2023-07-24T03:00:00Z",
+                            "stop": "2023-09-03T16:00:00Z",
+                            "reason": "De afrit is dicht. Van 24 juli 2023 05:00 uur tot 3 september 2023 18:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Drachten",
+                    "end": "Leeuwarden",
+                    "roadworks": [
+                        {
+                            "id": 397532155,
+                            "road": "N31",
+                            "segmentId": 3232,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Leeuwarden-Noord",
+                            "fromLoc": {
+                                "lat": 53.20547,
+                                "lon": 5.74059
+                            },
+                            "to": "Leeuwarden-Noord",
+                            "toLoc": {
+                                "lat": 53.20547,
+                                "lon": 5.74059
+                            },
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 53.2027,
+                                    "lon": 5.73247
+                                },
+                                "northEast": {
+                                    "lat": 53.20694,
+                                    "lon": 5.74445
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 407,
+                                    "text": "De afrit is dicht"
+                                }
+                            ],
+                            "start": "2023-07-24T03:00:00Z",
+                            "stop": "2023-09-03T16:00:00Z",
+                            "reason": "De afrit is dicht. Van 24 juli 2023 05:00 uur tot 3 september 2023 18:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N59",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Zierikzee",
+                    "end": "knp. Hellegatsplein",
+                    "roadworks": [
+                        {
+                            "id": 396260179,
+                            "road": "N59",
+                            "segmentId": 3387,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Den Bommel",
+                            "fromLoc": {
+                                "lat": 51.69967,
+                                "lon": 4.29262
+                            },
+                            "to": "knp. Hellegatsplein",
+                            "toLoc": {
+                                "lat": 51.69728,
+                                "lon": 4.3958
+                            },
+                            "polyline": "irpzHcpeYIq@Ee@Ek@Es@ImAIoAK_BCc@Eg@G_AEk@Ce@Gy@Es@Es@IsAGy@E}@Cq@E_AEuACSEmAA[IqCCgAAYKmEiA_f@uBg_AU}JMcFI{DKcJGwI?GAcDAoC?oC@yD@oDDoOBuM@oHBmMBgGBmLDyPBsI@mHByHB{J@wGBsK@aGDyKDqF@qCBoDFsHDkF@wAH{GN{MJmJBcDRwRDcFL}LDoCHuG@u@@e@?k@BE@[BmB@{@BeA@[@Y@Y@UB[Be@Dk@Fo@Hq@Hq@Fm@De@Fi@LmAJw@@OH_@Dc@Da@De@LiA^_DHq@NsAXyBRmAn@qDP_ALo@j@iCXkAh@mBj@mB\\eA^kA|@{Bb@eARk@JUJUHURe@Re@Te@P_@Tg@Vi@Te@Xg@NYd@y@l@kAt@mAb@s@T]T_@FM",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.69538,
+                                    "lon": 4.2933
+                                },
+                                "northEast": {
+                                    "lat": 51.70198,
+                                    "lon": 4.39808
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-08-07T18:00:00Z",
+                            "stop": "2023-09-01T03:00:00Z",
+                            "reason": "Dicht. Van 7 augustus 2023 20:00 uur tot 1 september 2023 05:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "knp. Hellegatsplein",
+                    "end": "Zierikzee",
+                    "roadworks": [
+                        {
+                            "id": 396260213,
+                            "road": "N59",
+                            "segmentId": 3387,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "knp. Hellegatsplein",
+                            "fromLoc": {
+                                "lat": 51.69728,
+                                "lon": 4.3958
+                            },
+                            "to": "Den Bommel",
+                            "toLoc": {
+                                "lat": 51.69967,
+                                "lon": 4.29262
+                            },
+                            "polyline": "azozHadzYQNSPQPONGFYZUTSXSVKPSXQZMTOVWh@Uf@KTUh@K\\Qf@Of@IXK\\Kd@St@Qt@U`AS~@UfA]~A]~AUnAG\\Mp@Or@Kb@Mh@Kb@Of@O`@KXM\\GNKTKTGJCDOVQVQXQVQTORUXi@h@o@n@IJIHSRYXa@b@UROJQHODKBM@MAOEMGMIIKIKGMISEQCQCQAO?S?O@Q@QBSDSBKDKFQFMHMJKJILEPCN?NBPFNJNNHLJPHPJRNVJRJRFVLb@Nr@Jj@Ll@Jn@DXDd@BRFr@@ZBvA@b@Ad@?\\E`AA^C^Ef@CZGf@G`@E^Ib@E`@It@Gf@Gp@Eh@Eb@Ep@Cf@C`AAj@Aj@?hABpD?X@D?j@Ad@At@ItGEnCM|LEbFSvRCbDKlJOzMIzGAvAEjFGrHCnDApCEpFExKA`GCrKAvGCzJCxHAlHCrIExPClLCfGClMAnHCtMEnOAnDAxD?nC@nC@bD?FFvIJbJHzDLbFT|JtBf_AhA~e@JlE@XBfAHpC@ZDlAAT@j@@l@Bh@BlAD~@Bl@@RD`AFtAJtB@FBh@Dh@B\\Bb@HpALzAL~A@LFp@Dj@Dd@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.69585,
+                                    "lon": 4.29348
+                                },
+                                "northEast": {
+                                    "lat": 51.70233,
+                                    "lon": 4.39889
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-08-07T18:00:00Z",
+                            "stop": "2023-09-01T03:00:00Z",
+                            "reason": "Dicht. Van 7 augustus 2023 20:00 uur tot 1 september 2023 05:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N62",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Belgische grens",
+                    "end": "Borssele",
+                    "jams": [
+                        {
+                            "id": 20508144,
+                            "road": "N62",
+                            "segmentId": 4020,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "jams",
+                            "incidentType": "slow-traffic",
+                            "from": "het tolplein van de Westerscheldetunnel",
+                            "fromLoc": {
+                                "lat": 51.44153,
+                                "lon": 3.75569
+                            },
+                            "to": "Borssele",
+                            "toLoc": {
+                                "lat": 51.44775,
+                                "lon": 3.75204
+                            },
+                            "polyline": "m|}xHsu|UG@MB[FUFc@J}@TqBj@E@[Lc@PC@MHUNC@[V[X]VCBYR_@TOHQH_@PUJa@Rs@X",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.44023,
+                                    "lon": 3.75468
+                                },
+                                "northEast": {
+                                    "lat": 51.44383,
+                                    "lon": 3.75658
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 115,
+                                    "text": "Langzaam rijdend verkeer",
+                                    "distance": 200
+                                }
+                            ],
+                            "distance": 200,
+                            "start": "2023-07-30T14:40:00Z"
+                        }
+                    ]
+                },
+                {
+                    "start": "Borssele",
+                    "end": "Belgische grens",
+                    "jams": [
+                        {
+                            "id": 20508141,
+                            "road": "N62",
+                            "segmentId": 4020,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "jams",
+                            "incidentType": "slow-traffic",
+                            "from": "het tolplein van de Westerscheldetunnel",
+                            "fromLoc": {
+                                "lat": 51.44153,
+                                "lon": 3.75569
+                            },
+                            "to": "Hoek",
+                            "toLoc": {
+                                "lat": 51.32842,
+                                "lon": 3.80092
+                            },
+                            "polyline": "urvxHmgcVRYb@m@Ze@Va@T[Va@f@s@b@o@V_@d@q@b@o@z@mA^i@`@k@v@gAZc@PUXa@TYd@k@^e@d@k@|@aATU\\]h@g@TUVUXWLKRQTQNKn@g@j@c@~@m@p@a@j@[RKPKpDaB~@a@n@QlDo@tCc@~AQ~BShBEzAEfAEbJ@zO@lXZhSJjSEhQ@tM@vFA~E@lHEpSIP?bM@x@?vSD`E?fV\\hGBjd@ChADF?\\?pD@\\?|JGrMe@x@Gh@Er@EPAVA|AS^En@Gb@GVEjAQj@I|@Qt@O|@Sd@M^K^K^K^Kb@Mh@OpA_@j@Qd@OpAa@lA_@|@Wv@Qd@M^ITETE\\E\\Ef@ETCXCZCZA^Ah@AR?R?D?",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 51.33023,
+                                    "lon": 3.79015
+                                },
+                                "northEast": {
+                                    "lat": 51.40283,
+                                    "lon": 3.80098
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 115,
+                                    "text": "Langzaam rijdend verkeer",
+                                    "distance": 8000
+                                }
+                            ],
+                            "distance": 8000,
+                            "delay": 240,
+                            "start": "2023-07-30T14:40:00Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N232",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Haarlem",
+                    "end": "Amstelveen",
+                    "roadworks": [
+                        {
+                            "id": 382454587,
+                            "road": "N232",
+                            "segmentId": 3810,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de aansluiting met de A9",
+                            "fromLoc": {
+                                "lat": 52.31256,
+                                "lon": 4.81372
+                            },
+                            "to": "de aansluiting met de A9",
+                            "toLoc": {
+                                "lat": 52.31256,
+                                "lon": 4.81372
+                            },
+                            "polyline": "_|h~Hwaj\\b@}@DMd@gAfAgCpEeKnAkCxA{Cf@cAXi@|@iB\\s@Pa@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.31214,
+                                    "lon": 4.80812
+                                },
+                                "northEast": {
+                                    "lat": 52.31568,
+                                    "lon": 4.81448
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-03-30T07:30:00Z",
+                            "stop": "2025-03-31T03:00:00Z",
+                            "reason": "Dicht. Van 30 maart 2023 09:30 uur tot 31 maart 2025 05:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N241",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Schagen",
+                    "end": "Wognum",
+                    "roadworks": [
+                        {
+                            "id": 382466634,
+                            "road": "N241",
+                            "segmentId": 3900,
+                            "codeDirection": 2,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Hoogwoud",
+                            "fromLoc": {
+                                "lat": 52.70767,
+                                "lon": 4.93572
+                            },
+                            "to": "Hoogwoud",
+                            "toLoc": {
+                                "lat": 52.70767,
+                                "lon": 4.93572
+                            },
+                            "polyline": "_ou`Iu|b]?^?tA?R",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.70784,
+                                    "lon": 4.93462
+                                },
+                                "northEast": {
+                                    "lat": 52.70784,
+                                    "lon": 4.93531
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-04-17T04:30:00Z",
+                            "stop": "2023-08-04T16:00:00Z",
+                            "reason": "Dicht. Van 17 april 2023 06:30 uur tot 4 augustus 2023 18:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Wognum",
+                    "end": "Schagen",
+                    "roadworks": [
+                        {
+                            "id": 3824666340,
+                            "road": "N241",
+                            "segmentId": 3900,
+                            "codeDirection": 2,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Hoogwoud",
+                            "fromLoc": {
+                                "lat": 52.70767,
+                                "lon": 4.93572
+                            },
+                            "to": "Hoogwoud",
+                            "toLoc": {
+                                "lat": 52.70767,
+                                "lon": 4.93572
+                            },
+                            "polyline": "qnu`Ic|b]?E",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.70777,
+                                    "lon": 4.93522
+                                },
+                                "northEast": {
+                                    "lat": 52.70777,
+                                    "lon": 4.93525
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-04-17T04:30:00Z",
+                            "stop": "2023-08-04T16:00:00Z",
+                            "reason": "Dicht. Van 17 april 2023 06:30 uur tot 4 augustus 2023 18:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N243",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Alkmaar",
+                    "end": "Avenhorn",
+                    "roadworks": [
+                        {
+                            "id": 382472847,
+                            "road": "N243",
+                            "segmentId": 3920,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Alkmaar",
+                            "fromLoc": {
+                                "lat": 52.62342,
+                                "lon": 4.77825
+                            },
+                            "to": "Schermerhorn",
+                            "toLoc": {
+                                "lat": 52.60036,
+                                "lon": 4.87499
+                            },
+                            "polyline": "y~d`Icfd\\?Ad@cCZ}ANq@D[Jm@DULi@DOf@_B\\u@Te@HOX_@RWb@a@d@]r@]XIv@QXG`AYt@[d@_@FKp@_AXo@Ts@No@d@kCd@qD@e@PiAdDiX|AgMzAkLHIl@oEn@gFNmAvBaQC[nIuq@|AkMDGl@yEPwAHw@L_AHm@?IlBsOh@gEH]f@cEXkBL}@D[`@}CNkAD[Fe@lAcKLmADi@n@eFrDoYpKgz@tAsKPuAvHym@dIep@DGbAcIXwBNmAJy@RsAX}B\\wCXcCHw@AI\\}BHi@dBmNnDiYbDeWD]^yDDYRuAHm@NkAJ}@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.60028,
+                                    "lon": 4.7781
+                                },
+                                "northEast": {
+                                    "lat": 52.62333,
+                                    "lon": 4.8751
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-04-24T03:30:00Z",
+                            "stop": "2023-07-31T15:00:00Z",
+                            "reason": "Dicht. Van 24 april 2023 05:30 uur tot 31 juli 2023 17:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Avenhorn",
+                    "end": "Alkmaar",
+                    "roadworks": [
+                        {
+                            "id": 382473395,
+                            "road": "N243",
+                            "segmentId": 3920,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Schermerhorn",
+                            "fromLoc": {
+                                "lat": 52.60036,
+                                "lon": 4.87499
+                            },
+                            "to": "Alkmaar",
+                            "toLoc": {
+                                "lat": 52.62342,
+                                "lon": 4.77825
+                            },
+                            "polyline": "_o``Imdw\\K|@OjAIl@StAEX_@xDE\\cDdWoDhYeBlNIh@]|BCDKx@a@zCQlAIh@WjBKt@Kn@Kv@OrAW~B}@zH@JeIdp@wHxm@QtAuArKqKfz@sDnYo@dFKf@OfAYnBs@hFQhAE\\Eb@Gh@g@pE[xCg@fEC`@i@fEmBrOEDKl@O|@Kx@OtAi@|E@H}AjMoItq@KLs@tFu@zFQrA_AtHi@lEBR{AjL}AfMeDhXQhAOZaAbG[lAe@nAS`@i@r@GH]VYNs@Z}@VSB_@LiA\\_@TSN[XYXc@f@CD]h@o@xA[`A_@`BOn@IVOn@[|AO~@Mt@EP?@",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.60032,
+                                    "lon": 4.77821
+                                },
+                                "northEast": {
+                                    "lat": 52.62355,
+                                    "lon": 4.87511
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-04-24T03:30:00Z",
+                            "stop": "2023-07-31T15:00:00Z",
+                            "reason": "Dicht. Van 24 april 2023 05:30 uur tot 31 juli 2023 17:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N250",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Den Helder",
+                    "end": "De Kooy",
+                    "jams": [
+                        {
+                            "id": 20508123,
+                            "road": "N250",
+                            "segmentId": 3990,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "jams",
+                            "incidentType": "stationary-traffic",
+                            "from": "de veerterminal in Den Helder",
+                            "fromLoc": {
+                                "lat": 52.96315,
+                                "lon": 4.77725
+                            },
+                            "to": "Den Helder",
+                            "toLoc": {
+                                "lat": 52.94333,
+                                "lon": 4.78514
+                            },
+                            "polyline": "wsgbIssc\\?L?p@@t@@n@@bB?|A@dB?~A?tBAlBE~DAVCxAC`BAnAAj@B\\HPNF",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.96452,
+                                    "lon": 4.76829
+                                },
+                                "northEast": {
+                                    "lat": 52.96467,
+                                    "lon": 4.77514
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 101,
+                                    "text": "Stilstaand verkeer",
+                                    "distance": 800
+                                }
+                            ],
+                            "distance": 800,
+                            "delay": 480,
+                            "start": "2023-07-30T14:29:00Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N332",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Lochem",
+                    "end": "Raalte",
+                    "roadworks": [
+                        {
+                            "id": 397580003,
+                            "road": "N332",
+                            "segmentId": 4750,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Lochem",
+                            "fromLoc": {
+                                "lat": 52.16816,
+                                "lon": 6.39433
+                            },
+                            "to": "de aansluiting met de A1",
+                            "toLoc": {
+                                "lat": 52.24933,
+                                "lon": 6.39873
+                            },
+                            "polyline": "{al}He|_f@EFIHONED}@z@MLu@t@Q\\WV_@^SR[Xc@`@u@j@a@Xc@Tc@R]LYHw@P_@H]Fg@NWJWL]P_@ROHYPE?EBEDUN]VSNMLIJKJY\\SZSVKNEHOTORKREHGHEFGJO\\EHWl@Q`@CHELSn@Ur@}@rCK^?PSn@Ut@Od@MVEJGNGRKXIPUf@Q^Wh@S^S\\U^]d@Y`@_@d@a@d@a@b@s@p@y@p@u@h@m@\\o@Ze@Pi@Ps@R_ATeAV}@RcAVk@Hc@Ro@Vu@`@g@Z{@l@o@h@{@z@QP[\\a@b@i@n@q@z@u@bAk@t@SVg@n@e@h@g@f@_@\\i@d@E?c@\\u@l@cB`Bs@v@u@dA[d@OTINSZS^]r@Wh@Uf@Sf@KVSh@Sh@Uf@IPKTUf@Sf@OZO\\KPSVMNMPSTYZKHOLUT]Xg@\\A@s@f@SHm@V{Ah@oBl@mBj@aD|@sBh@_AVyA\\iBb@i@L[HiAV}@NeALk@F}@H}@DuAD{BD_CFq@Bo@@o@?}@AIKu@Mm@OSGGCECCC?GAEAECECCCACAC?E?C@C@A@CBABABC?E?GAYGOEYGe@OUGM?yAk@gCwAgC}Am@c@{@o@mBaB{@y@gAkAiBsBeCsCmC}CwBcC_CmC{BgC[_@wAaBwCgDyCiDeBoBy@_AcBmB_DqDi@o@y@}@kAsAiBuByDmEsFmG}F{GgBsBwBaC_BgBwAyAyAyAqAoA{CqCuBgBcCoBw@k@aBmAYSmCiBqCcBgDmBoCwAiB}@uCoAkDuAsAe@uBs@}Ae@uA_@qA]kCo@cB_@eB]mB[yB]cCY_Ea@aEW_EOkBEyBCcB?cA?iE?mE?aEAwD?_C?Q?U?{G?aG?Y?i@?O?Y?a@?s@GGAm@A_CBq@@W?O?W?K?I?C?CACAAAAAACACCCECEAC?C?C@C@C@CDCBCBA@E@G?y@@U?_@?uABCAAACCCECCCCCACAC?C?C@C?C@CBCBABADA@A@A@A?C?O?_@?g@?",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.16814,
+                                    "lon": 6.37014
+                                },
+                                "northEast": {
+                                    "lat": 52.25074,
+                                    "lon": 6.39891
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-21T18:00:00Z",
+                            "stop": "2023-07-31T04:00:00Z",
+                            "reason": "Dicht. Van 21 juli 2023 20:00 uur tot 31 juli 2023 06:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Raalte",
+                    "end": "Lochem",
+                    "roadworks": [
+                        {
+                            "id": 397579931,
+                            "road": "N332",
+                            "segmentId": 4750,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de aansluiting met de A1",
+                            "fromLoc": {
+                                "lat": 52.24933,
+                                "lon": 6.39873
+                            },
+                            "to": "Lochem",
+                            "toLoc": {
+                                "lat": 52.16816,
+                                "lon": 6.39433
+                            },
+                            "polyline": "}e|}Hqv`f@f@?Z?L?B?@?@?@@@@B@@DBB@BB@D@B?@?BABABA@A@ABC@C@ABC@ABAvAA^?tA@B@B@@@@B@B@BBBB@B@B@@?B?B?B?B?BA??@ABCBE@C@A@A@ABAB?J?H?ZAJ?X?vBA^AdAE|@M`@?X?N?h@?X?`G?zG?T?P?~B?vD?`E@lE?hE?bA?bB?xBBjBD~DN`EV~D`@bCXxB\\lBZdB\\bB^jCn@pA\\tA^|Ad@tBr@rAd@jDtAtCnAhB|@nCvAfDlBpCbBlChBXR`BlAv@j@bCnBtBfBzCpCpAnAxAxAvAxA~AfBvB`CfBrB|FzGrFlGxDlEhBtBjArAx@|@h@n@~CpDbBlBx@~@dBnBxChDvCfDvA`BZ^zBfC~BlCvBbClC|CdCrChBrBfAjAz@x@lB`Bz@n@l@b@fC|AfCvAxAj@JJfA^RFZJHDFDBB@F@D@D@B@BBBB@B@B@B?@?B?BABABCBCBC@CD?H@H@t@Pz@PJG|@@n@?n@Ap@C~BGzBEtAE|@E|@Ij@GdAM|@OhAWZIh@MhBc@xA]~@WrBi@`D}@lBk@nBm@zAi@l@WRI|@[h@a@VSf@e@PQJKZ[HKHKX_@JQHMJQR_@FKLWJUJYN_@Vq@`@cAb@mADMHSLYTe@R_@T_@Vc@T_@d@m@\\a@X[^c@HIfAgAx@s@p@m@@Ih@e@^]f@g@d@i@f@o@RWj@u@t@cAp@{@h@o@`@c@Z]PQz@{@n@i@z@m@f@[t@a@n@Wb@Sj@IbAW|@SdAW~@Ur@Sh@Qd@Qn@[l@]t@i@x@q@r@q@`@c@`@e@^e@Xa@\\e@T_@R]R_@Vi@P_@Tg@HQJYFSFODKLWNe@Tu@Ro@FGLc@t@eCDMLa@Ne@HUJYPc@P_@BE?AFKHSDIHQDIDINUJQDIJQNUZa@\\a@TWRSRQLKPOb@[BIXQNI^S\\QVMVKf@O\\G^Iv@QXI\\Mb@Sb@U`@Yt@k@b@a@ZYRS^_@VWXOXUHGTURSd@c@NOHIHIHGFG",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.16802,
+                                    "lon": 6.37013
+                                },
+                                "northEast": {
+                                    "lat": 52.25071,
+                                    "lon": 6.39879
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-21T18:00:00Z",
+                            "stop": "2023-07-31T04:00:00Z",
+                            "reason": "Dicht. Van 21 juli 2023 20:00 uur tot 31 juli 2023 06:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N379",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Klazienaveen",
+                    "end": "Gasselternijveen",
+                    "roadworks": [
+                        {
+                            "id": 395683220,
+                            "road": "N379",
+                            "segmentId": 5240,
+                            "codeDirection": 2,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Emmer Compascuum",
+                            "fromLoc": {
+                                "lat": 52.81111,
+                                "lon": 7.04648
+                            },
+                            "to": "Emmer Compascuum",
+                            "toLoc": {
+                                "lat": 52.81111,
+                                "lon": 7.04648
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-10T05:00:00Z",
+                            "stop": "2023-08-04T14:00:00Z",
+                            "reason": "Dicht. Van 10 juli 2023 07:00 uur tot 4 augustus 2023 16:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Gasselternijveen",
+                    "end": "Klazienaveen",
+                    "roadworks": [
+                        {
+                            "id": 3956832200,
+                            "road": "N379",
+                            "segmentId": 5240,
+                            "codeDirection": 2,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Emmer Compascuum",
+                            "fromLoc": {
+                                "lat": 52.81111,
+                                "lon": 7.04648
+                            },
+                            "to": "Emmer Compascuum",
+                            "toLoc": {
+                                "lat": 52.81111,
+                                "lon": 7.04648
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-10T05:00:00Z",
+                            "stop": "2023-08-04T14:00:00Z",
+                            "reason": "Dicht. Van 10 juli 2023 07:00 uur tot 4 augustus 2023 16:00 uur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "road": "N381",
+            "type": "n",
+            "segments": [
+                {
+                    "start": "Drachten",
+                    "end": "Emmen",
+                    "roadworks": [
+                        {
+                            "id": 395683559,
+                            "road": "N381",
+                            "segmentId": 5261,
+                            "codeDirection": 1,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "Hoogersmilde",
+                            "fromLoc": {
+                                "lat": 52.91125,
+                                "lon": 6.39746
+                            },
+                            "to": "de aansluiting met de A28",
+                            "toLoc": {
+                                "lat": 52.87761,
+                                "lon": 6.51312
+                            },
+                            "polyline": "mj}aIeb`f@Z{AZ_BRkA^cB\\kBj@_CJ_@Jc@dAyDV{@Lc@j@oBTw@`@uARs@Rs@BGBIBMDMFSDMz@uCdAoDl@sBjGaTzIkZf@eB~@aDf@gB|AkFXaAn@}BLa@Ne@bAkDxCyJhBcGvFqSj@wBhC}JZwAvAmGXoAdAgEdBmHv@aDDQb@kBf@sBT_AzAmGZsA^}Ax@kDd@oB|AyGbAgEp@qCNi@Pu@d@kBh@oBtA_FJ]l@wBd@yA`A{C`B_FhA_DfAqCj@yAt@mBd@kAz@sBjAaCvCoGbAyBfNcYv@eBn@yAn@_BRg@f@qAn@kBlBcGh@oBf@kB\\yAn@mCr@eDv@gEVwAZoBT}ARqAp@kFh@iF@KRaCZsEHsAHyALgCLeDLsCHiCt@_TNmEJ_DBi@F}BNkEl@aQJ}CRqFNqFFyALsDBu@FiB@WNwDHaCDaAHqB@WRmFB{@H}BDuAXmGJoBXeFR}CHwAHeAZaENkB`@mEPoB^oDJcA`@sDHo@\\yDHo@Fg@PkATeBL_APoAJKHc@Hg@X_B\\yBNw@Ha@DMBK@CBAFAHBDAFCBCBE@G@G?KAIAGCGCGB_@D]D_@h@uD^{BTuAH_@Ha@\\qBXiBdAmGDCBCBE@E@I?K?IAICIr@kD",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.87661,
+                                    "lon": 6.39539
+                                },
+                                "northEast": {
+                                    "lat": 52.91191,
+                                    "lon": 6.51679
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-09T21:59:00Z",
+                            "stop": "2023-07-31T21:00:00Z",
+                            "reason": "Dicht. Van 9 juli 2023 23:59 uur tot 31 juli 2023 23:00 uur."
+                        }
+                    ]
+                },
+                {
+                    "start": "Emmen",
+                    "end": "Drachten",
+                    "roadworks": [
+                        {
+                            "id": 395683584,
+                            "road": "N381",
+                            "segmentId": 5260,
+                            "codeDirection": 0,
+                            "type": "n",
+                            "afrc": 3,
+                            "category": "roadworks",
+                            "label": "closed",
+                            "incidentType": "road-closed",
+                            "from": "de aansluiting met de A28",
+                            "fromLoc": {
+                                "lat": 52.87761,
+                                "lon": 6.51312
+                            },
+                            "to": "Hoogersmilde",
+                            "toLoc": {
+                                "lat": 52.91125,
+                                "lon": 6.39746
+                            },
+                            "polyline": "gnvaIoywf@[nAIZI\\Ob@C?C?C@C@EDCFADAD?F?F?D?D@DBDBDBBC^SrAc@vCe@pCQbAIb@I`@c@nCShAMt@Il@Gb@OrAEVEJGNEDCDADAF?DUx@YfBSnAO|@UhAEXKd@?\\QnAM~@UdBQjAGf@In@]xDIn@a@rDKbA_@nDQnBa@lEOjB[`EIdAIvAS|CYdFKnBYlGEtAI|BCz@SlFAVIpBE`AI`COvDAVGhBCt@MrDGxAOpFSpFK|Cm@`QOjEG|BCh@K~COlEu@~SIhCMrCMdDMfCIxAIrA[rES`CAJi@hFq@jFSpAU|A[nBWvAw@fEs@dDo@lC]xAg@jBi@nBmBbGo@jBg@pASf@o@~Ao@xAw@dBgNbYcAxBwCnGkA`C{@rBe@jAw@lBk@xAgApCiA~CaB~EaAzCe@xAm@vBK\\uA~Ei@nBe@jBQt@Oh@q@pCcAfE}AxGe@nBy@jD_@|A[rA{AlGU~@g@rBc@jBEPw@`DeBlHeAfEYnAwAlG[vAiC|Jk@vBwFpSiBbGyCxJcAjDOd@M`@o@|BY`A}AjFg@fB_A`Dg@dB{IjZkG`Tm@rBeAnD{@tCELGRELCLCHCFSr@Sr@a@tAUv@k@nBMb@Wz@eAxDKb@K^k@~B]jB_@bBSjA[~A[zA",
+                            "bounds": {
+                                "southWest": {
+                                    "lat": 52.87668,
+                                    "lon": 6.39543
+                                },
+                                "northEast": {
+                                    "lat": 52.91196,
+                                    "lon": 6.51688
+                                }
+                            },
+                            "events": [
+                                {
+                                    "alertC": 401,
+                                    "text": "Dicht"
+                                }
+                            ],
+                            "start": "2023-07-09T21:59:00Z",
+                            "stop": "2023-07-31T21:00:00Z",
+                            "reason": "Dicht. Van 9 juli 2023 23:59 uur tot 31 juli 2023 23:00 uur."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "totals": {
+        "a": {
+            "distance": 0,
+            "delay": 0,
+            "count": 6
+        },
+        "n": {
+            "distance": 8,
+            "delay": 4,
+            "count": 2
+        },
+        "other": {
+            "distance": 0,
+            "delay": 0,
+            "count": 0
+        },
+        "all": {
+            "distance": 8,
+            "delay": 4,
+            "count": 8
+        }
+    },
+    "warnings": []
+}
