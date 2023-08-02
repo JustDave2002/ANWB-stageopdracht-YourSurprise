@@ -51,7 +51,7 @@ var map = L.map('map').setView([52.226678, 5.526123], 7.5);
 //adds a specific map
 var Stadia_OSMBright = L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', {
     maxZoom: 20,
-    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+    attribution: '&copy; <a href="https://stadiamaps.com/?api_key=895b68d4-9f74-45ee-9aa9-c7d7bebe3728">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 //sets layers for the different traffic issues
