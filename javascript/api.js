@@ -6,7 +6,7 @@ var roadWorksIcon = L.icon({
     popupAnchor: [0, -40],
     shadowUrl: './images/markers-shadow.png',
     shadowSize: [50, 25],
-    shadowAnchor: [10, 60]
+    shadowAnchor: [10, 20]
 });
 var crashIcon = L.icon({
     iconUrl: './images/crash_pin.png',
@@ -15,7 +15,7 @@ var crashIcon = L.icon({
     popupAnchor: [0, -40],
     shadowUrl: './images/markers-shadow.png',
     shadowSize: [50, 25],
-    shadowAnchor: [10, 60]
+    shadowAnchor: [10, 20]
 });
 var jamIcon = L.icon({
     iconUrl: './images/file_pin.png',
@@ -24,16 +24,16 @@ var jamIcon = L.icon({
     popupAnchor: [0, -40],
     shadowUrl: './images/markers-shadow.png',
     shadowSize: [50, 25],
-    shadowAnchor: [10, 60]
+    shadowAnchor: [10, 20]
 });
 var closedRoadIcon = L.icon({
-    iconUrl: '/images/closed_pin.png',
+    iconUrl: './images/closed_pin.png',
     iconSize: [40, 50],
     iconAnchor: [20, 50],
     popupAnchor: [0, -40],
     shadowUrl: './images/markers-shadow.png',
     shadowSize: [50, 25],
-    shadowAnchor: [10, 60]
+    shadowAnchor: [10, 20]
 });
 var radarIcon = L.icon({
     iconUrl: './images/radar_pin.png',
@@ -42,7 +42,7 @@ var radarIcon = L.icon({
     popupAnchor: [0, -40],
     shadowUrl: './images/markers-shadow.png',
     shadowSize: [50, 25],
-    shadowAnchor: [10, 60]
+    shadowAnchor: [10, 20]
 });
 
 //sets starting position of the map
