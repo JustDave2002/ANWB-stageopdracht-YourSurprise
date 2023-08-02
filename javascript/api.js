@@ -61,7 +61,7 @@ var radarLayer = L.layerGroup();
 
 //fetches the data on loading of the page
 window.addEventListener("load", (event) => {
-    fetchData('/javascript/spits_data.json');
+    fetchData('./javascript/spits_data.json');
 });
 
 /**
