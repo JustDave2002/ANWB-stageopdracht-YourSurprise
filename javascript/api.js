@@ -61,7 +61,7 @@ var radarLayer = L.layerGroup();
 
 //fetches the data on loading of the page
 window.addEventListener("load", (event) => {
-    fetchData('./javascript/spits_data.json');
+    fetchData('https://cors.netlob.dev/https://api.anwb.nl/v2/incidents?apikey=QYUEE3fEcFD7SGMJ6E7QBCMzdQGqRkAi&polylines=true&polylineBounds=true&totals=true');
 });
 
 /**
@@ -71,16 +71,6 @@ window.addEventListener("load", (event) => {
 */ 
 function fetchData(src) {
     console.log("fetching data");
-
-
-    // const options = {method: 'GET', mode: "cors", 'Host': "api.anwb.nl", 'Accept': 'application/json'};
-
-    // fetch('http://localhost:8010/proxy/v2/incidents?apikey=QYUEE3fEcFD7SGMJ6E7QBCMzdQGqRkAi&polylines=true&polylineBounds=true&totals=true', options)
-    //     // .then(response => response.json())
-    //     .then(response => console.log(response))
-    //     .catch(err => console.error(err));
-
-    // const options = {method: 'GET'};
 
     //fetches JSON from source and parses results
     fetch(src)
