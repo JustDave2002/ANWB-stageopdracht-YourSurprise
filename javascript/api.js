@@ -61,7 +61,7 @@ var radarLayer = L.layerGroup();
 
 //fetches the data on loading of the page
 window.addEventListener("load", (event) => {
-    fetchData('https://cors.netlob.dev/https://api.anwb.nl/v2/incidents?apikey=QYUEE3fEcFD7SGMJ6E7QBCMzdQGqRkAi&polylines=true&polylineBounds=true&totals=true');
+    fetchData('./javascript/spits_data.json');
 });
 
 /**
