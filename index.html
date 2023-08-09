@@ -9,7 +9,7 @@
     <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    <script src="javascript/Polyline.encoded.js"></script>
+    <script src="javascript/leaflet map/Polyline.encoded.js"></script>
     <!-- <script src="javascript/api.js"></script> -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
@@ -30,31 +30,6 @@
     </nav>
     <br>
     <br>
-    <!-- <div class="container-fluid">
-            <div class="row">
-              <div
-                class="col-sm-9 bg-dark"
-                style="
-                  border-top-right-radius: 10px;
-                  border-bottom-right-radius: 10px;
-                "
-              >
-                <h3 class = text>File map</h3>
-                <div id="map"></div>
-                <br />
-              </div>
-              
-            </div>
-            <div class="col-sm-1">
-
-            </div>
-            <div class="col-sm-2">
-                <table class="table">
-                    ...
-                  </table>
-            </div>
-          </div> -->
-
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-9 bg-dark pr-4 pl-3.5"
@@ -103,7 +78,11 @@
 
 
 </body>
+<script src="javascript/leaflet map/initialise.js"></script>
+<script src="javascript/leaflet map/draw.js"></script>
+<script src="javascript/data_processing"></script>
 <script src="javascript/api.js"></script>
+<script src="javascript/main.js"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
